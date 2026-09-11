@@ -3,12 +3,12 @@ type: Decision Framework
 title: Ethical marketing and social responsibility
 description: Evaluating marketing decisions through freedom of choice, responsibility to society, stakeholder roles, and legal constraints.
 status: draft
-tags: [chapter-15, ethics, social-responsibility, stakeholders]
+tags: [ chapter-15, ethics, social-responsibility, stakeholders ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: "/release-information/source-provenance.md"
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Ethical marketing and social responsibility
@@ -35,4 +35,4 @@ Ethical decisions are complex because stakeholders can reasonably disagree about
 - [Sustainable marketing](./sustainable-marketing.md)
 - [Marketing environment](./marketing-environment.md)
 
-[^ethics]: [Primary PDF source](/release-information/source-provenance.md), Chapter 15, printed page 688; PDF page 726.
+[^ethics]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 15, printed page 688; PDF page 726.

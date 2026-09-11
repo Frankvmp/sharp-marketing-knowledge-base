@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Total offer and core need
 
@@ -42,5 +42,5 @@ Start product decisions with the job or outcome customers seek, then test which 
 - [Product features and benefits](./product-features-and-benefits.md)
 - [Marketing mix](../marketing-mix.md)
 
-[^product]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 287–289; PDF pages 325–327.
-[^core]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 289–292; PDF pages 327–330.
+[^product]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 287–289; PDF pages 325–327.
+[^core]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 289–292; PDF pages 327–330.

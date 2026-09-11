@@ -3,12 +3,12 @@ type: Practice Framework
 title: Advertising and memory availability
 description: Advertising works when it is processed, correctly linked to the brand, and refreshes useful memory associations for buying situations.
 status: draft
-tags: [chapter-11, advertising, mental-availability, memory]
+tags: [ chapter-11, advertising, mental-availability, memory ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: "/release-information/source-provenance.md"
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Advertising and memory availability
@@ -34,5 +34,5 @@ Memory associations can include what the brand does, how it looks, where it is a
 - [Mental availability in choice situations](./mental-availability-in-choice-situations.md)
 - [Physical availability and retailing](./physical-availability-and-retailing.md)
 
-[^advertising]: [Primary PDF source](/release-information/source-provenance.md), Chapter 11, printed page 487; PDF page 525.
-[^advertising-summary]: [Primary PDF source](/release-information/source-provenance.md), Chapter 11, printed page 488; PDF page 526.
+[^advertising]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed page 487; PDF page 525.
+[^advertising-summary]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed page 488; PDF page 526.

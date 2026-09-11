@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Media selection and digital risks
 
@@ -29,7 +29,7 @@ Accept reasonable wastage when it buys materially greater category reach. Treat 
 
 Reach and opportunity-to-see measures describe potential access to an audience. They do not establish that a person attended to, saw, heard, or processed a particular advertisement; clutter and advertising avoidance can interrupt that path. Interpret media-delivery metrics as evidence about access, then assess advertising effects separately.[^exposure]
 
-[^selection]: [Primary PDF source](/release-information/source-provenance.md), Chapter 12, printed pages 512–519; PDF pages 550–557.
-[^digital]: [Primary PDF source](/release-information/source-provenance.md), Chapter 12, printed pages 531–537; PDF pages 569–575.
-[^exposure]: [Primary PDF source](/release-information/source-provenance.md), Chapter 12, printed pages 514–516; PDF pages 552–554.
+[^selection]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 512–519; PDF pages 550–557.
+[^digital]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 531–537; PDF pages 569–575.
+[^exposure]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 514–516; PDF pages 552–554.
 

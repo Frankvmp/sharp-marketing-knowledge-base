@@ -13,7 +13,7 @@ tags:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Planning limits and design thinking
@@ -44,6 +44,6 @@ An agent should use structured analysis for discipline and evidence, while testi
 
 ## Related
 
-[^limits]: [Primary PDF source](/release-information/source-provenance.md), Chapter 13, printed pages 571–575; PDF pages 609–613.
+[^limits]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 13, printed pages 571–575; PDF pages 609–613.
 
-[^design]: [Primary PDF source](/release-information/source-provenance.md), Chapter 13, printed pages 576–579; PDF pages 614–617.
+[^design]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 13, printed pages 576–579; PDF pages 614–617.

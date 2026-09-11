@@ -12,7 +12,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Evidence-based marketing
 
@@ -38,4 +38,4 @@ An agent should distinguish general evidence, local evidence, and untested assum
 
 ## Related
 
-[^evidence]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 10–13; PDF pages 48–51.
+[^evidence]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 10–13; PDF pages 48–51.

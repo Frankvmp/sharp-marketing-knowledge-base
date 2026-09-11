@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Demographic and cultural environment
 
@@ -45,5 +45,5 @@ Use population data to constrain market-size assumptions, then test how affected
 - [Economic and political environment](./economic-and-political-environment.md)
 - [Marketing environment](../marketing-environment.md)
 
-[^demography]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 218–220; PDF pages 256–258.
-[^culture]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 221–222; PDF pages 259–260.
+[^demography]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 218–220; PDF pages 256–258.
+[^culture]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 221–222; PDF pages 259–260.

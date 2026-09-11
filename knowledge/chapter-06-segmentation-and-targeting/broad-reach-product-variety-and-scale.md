@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Broad reach, product variety, and scale
 
@@ -42,5 +42,5 @@ Judge a proposed variant or segment strategy by total-market impact, not only it
 - [Targeting returns and light buyers](./targeting-returns-and-light-buyers.md)
 - [Smart targeting principles](./smart-targeting-principles.md)
 
-[^broad]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 260–261; PDF pages 298–299.
-[^variants]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 264–265; PDF pages 302–303.
+[^broad]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 260–261; PDF pages 298–299.
+[^variants]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 264–265; PDF pages 302–303.

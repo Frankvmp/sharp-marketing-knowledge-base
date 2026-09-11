@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: "/release-information/source-provenance.md"
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Metric validity and causal interpretation
@@ -62,8 +62,8 @@ Use a measurement system to detect changes and generate hypotheses. Then test th
 - [Buyer behaviour evidence](./buyer-behaviour-evidence.md)
 - [Evidence-based marketing](./evidence-based-marketing.md)
 
-[^metric-validity]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed page 123; PDF page 161.
-[^brand-size]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 124–125; PDF pages 162–163.
-[^double-jeopardy]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 125–126; PDF pages 163–164.
-[^causality]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 127–129 and 135–137; PDF pages 165–167 and 173–175.
-[^causal-estimates]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 130–133; PDF pages 168–171.
+[^metric-validity]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed page 123; PDF page 161.
+[^brand-size]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 124–125; PDF pages 162–163.
+[^double-jeopardy]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 125–126; PDF pages 163–164.
+[^causality]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 127–129 and 135–137; PDF pages 165–167 and 173–175.
+[^causal-estimates]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 130–133; PDF pages 168–171.

@@ -3,12 +3,12 @@ type: Decision Framework
 title: Product offer management
 description: Managing the total offer so that products and services remain relevant to current and potential buyers.
 status: draft
-tags: [chapter-7, product, services, innovation]
+tags: [ chapter-7, product, services, innovation ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: "/release-information/source-provenance.md"
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Product offer management
@@ -35,4 +35,4 @@ The same core analysis applies to physical goods and services. Product decisions
 - [Marketing mix](./marketing-mix.md)
 - [Customer needs and wants](./customer-needs-and-wants.md)
 
-[^offer]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed page 320; PDF page 358.
+[^offer]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed page 320; PDF page 358.

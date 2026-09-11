@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Market-based assets
@@ -45,6 +45,6 @@ This is a decision lens, not proof that a particular intervention will succeed. 
 - [Marketing executive role](./marketing-executive-role.md)
 - [Marketing metrics](./marketing-metrics.md)
 - Chapter 1 source map (not included in this reader release)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)
 
-[^sharp-2017-ch1-assets]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 17–19; PDF pages 55–57.
+[^sharp-2017-ch1-assets]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 17–19; PDF pages 55–57.

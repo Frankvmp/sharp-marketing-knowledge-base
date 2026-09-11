@@ -1,3 +1,4 @@
+
 # Chapter 8: Physical availability, retailing and shopping
 
 - [Retailing and physical availability](./retailing-and-physical-availability.md)
@@ -8,4 +9,4 @@
 ## Related
 
 - [Physical availability and retailing](../physical-availability-and-retailing.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

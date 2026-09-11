@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Sampling and representativeness
 
@@ -56,9 +56,9 @@ Do not use a result as a population estimate until the parent population, select
 - [Research design and B2B research](./research-design-and-b2b-research.md)
 - [Metric validity](../chapter-03-marketing-metrics/metric-validity.md)
 
-[^sampling]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 175–179; PDF pages 213–217.
-[^methods]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 178–180; PDF pages 216–218.
-[^probability]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 181–183; PDF pages 219–221.
-[^customer-samples]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 176–177; PDF pages 214–215.
-[^representativeness]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 184–185; PDF pages 222–223.
-[^sample-size]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 182–183; PDF pages 220–221.
+[^sampling]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 175–179; PDF pages 213–217.
+[^methods]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 178–180; PDF pages 216–218.
+[^probability]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 181–183; PDF pages 219–221.
+[^customer-samples]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 176–177; PDF pages 214–215.
+[^representativeness]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 184–185; PDF pages 222–223.
+[^sample-size]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 182–183; PDF pages 220–221.

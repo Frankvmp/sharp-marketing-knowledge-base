@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Product features and benefits
 
@@ -42,4 +42,4 @@ Use features as evidence for a customer-relevant benefit, not as the final produ
 - [Total offer and core need](./total-offer-and-core-need.md)
 - [Distinctive assets and packaging](./distinctive-assets-and-packaging.md)
 
-[^features]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 291–292; PDF pages 329–330.
+[^features]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 291–292; PDF pages 329–330.

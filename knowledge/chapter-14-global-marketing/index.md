@@ -1,3 +1,4 @@
+
 # Chapter 14: Global marketing
 
 This chapter is represented as linked, source-grounded concepts.
@@ -11,4 +12,4 @@ This chapter is represented as linked, source-grounded concepts.
 
 - [Global marketing adaptation](../global-marketing-adaptation.md)
 - [Marketing mix](../marketing-mix.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

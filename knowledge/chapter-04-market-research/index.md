@@ -1,3 +1,4 @@
+
 # Chapter 4: Market research
 
 This chapter turns a marketing decision problem into a research design, evidence base, analysis, and report. Use the linked concepts to determine what information is required, whether the evidence can support the intended inference, and how to communicate it without overstating certainty.
@@ -16,4 +17,4 @@ This chapter turns a marketing decision problem into a research design, evidence
 
 - [Market research process](../market-research-process.md)
 - [Buyer behaviour evidence](../buyer-behaviour-evidence.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

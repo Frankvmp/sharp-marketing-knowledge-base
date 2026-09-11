@@ -10,3 +10,10 @@
 #   drafts/        # exclude a directory
 #   *.draft.md     # exclude files matching a pattern
 #   !keep.md       # re-include a file .gitignore excluded
+
+# Release-package material outside the searchable marketing corpus.
+/index.md
+/setup/
+/testing/
+/release-information/
+/.claude/

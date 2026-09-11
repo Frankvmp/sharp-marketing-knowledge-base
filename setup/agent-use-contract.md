@@ -14,7 +14,7 @@ generated:
 
 Use OpenKnowledge tools to search and read only the [approved knowledge corpus](../knowledge/). Start with the [cross-chapter authority map](../knowledge/cross-chapter-authority-map.md) when a question could match more than one record.
 
-Do not read outside `knowledge/` to answer a marketing question. The release-information and setup documents explain this contract but are not evidence for marketing claims.
+Do not read outside `knowledge/` to answer a marketing question. Root-level `release-information/`, `setup/`, `testing/`, and `portable-skill/` provide administration, operating instructions, tests, and installation material. They are not evidence for marketing claims. [Source provenance](../knowledge/release-information/source-provenance.md) is inside `knowledge/` so source identity and limits remain accessible.
 
 ## Prohibited actions
 
@@ -37,3 +37,11 @@ Do not invent source claims, citations, page references, facts about the user's 
 Prefer detailed chapter records for mechanisms, conditions, procedures, and source support. Use navigation summaries only for orientation or where the authority map identifies them as a cross-chapter synthesis.
 
 If the corpus does not support an answer, say so plainly.
+
+## Release-candidate and skill context
+
+This contract applies to version `0.1.0-rc1`, derived from source tag `reader-release-v0.1.0-draft` at source commit `8b8c8c4be24c849bb5c711b790e39b6dbfe14f72`.
+
+Install and use `portable-skill/marketing-kb-grounded-reasoning.zip` alongside this contract. Its reference to outside-tool permission does not authorize outside evidence for an answer based on this release; the prohibited actions above still apply.
+
+The package includes `release-manifest.json`, `SHA256SUMS`, and `release-verification.json`. No public URL or credentials are supplied; deployment and final approval remain pending. The read-only access policy is not a claim that unrestricted `exec` is safe.

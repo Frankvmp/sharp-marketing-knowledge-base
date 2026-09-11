@@ -1,3 +1,4 @@
+
 # Chapter 9: Pricing and discounting
 
 - [Costs, margins, and profit](./costs-margins-and-profit.md)
@@ -8,4 +9,4 @@
 ## Related
 
 - [Pricing and discounting](../pricing-and-discounting.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

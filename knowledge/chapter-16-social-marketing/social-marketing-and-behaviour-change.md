@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Social marketing and behaviour change
 
@@ -43,4 +43,4 @@ An agent should identify the exact voluntary behaviour, intended social benefit,
 
 ## Related
 
-[^definition]: [Primary PDF source](/release-information/source-provenance.md), Chapter 16, printed pages 702–707; PDF pages 740–745.
+[^definition]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 16, printed pages 702–707; PDF pages 740–745.

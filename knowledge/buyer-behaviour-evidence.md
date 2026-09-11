@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: "/release-information/source-provenance.md"
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Buyer behaviour evidence
@@ -44,4 +44,4 @@ A marketer does not need to reconstruct the psychology of every individual buyer
 - [Mental availability in choice situations](./mental-availability-in-choice-situations.md)
 - [Marketing measurement system](./marketing-measurement-system.md)
 
-[^buyer-evidence]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 37–38; PDF pages 75–76.
+[^buyer-evidence]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 37–38; PDF pages 75–76.

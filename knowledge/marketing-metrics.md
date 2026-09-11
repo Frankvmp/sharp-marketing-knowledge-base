@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Marketing metrics
@@ -47,6 +47,6 @@ This chapter supplies a framing principle and examples of metrics. It does not p
 - [Market-based assets](./market-based-assets.md)
 - [Marketing executive role](./marketing-executive-role.md)
 - Chapter 1 source map (not included in this reader release)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)
 
-[^sharp-2017-ch1-metrics]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 15–18; PDF pages 53–56.
+[^sharp-2017-ch1-metrics]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 15–18; PDF pages 53–56.

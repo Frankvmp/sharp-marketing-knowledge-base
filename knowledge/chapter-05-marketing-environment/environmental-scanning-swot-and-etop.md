@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Environmental scanning, SWOT, and ETOP
 
@@ -50,5 +50,5 @@ Use the frameworks to expose assumptions and decide where monitoring or preparat
 - [Technological and natural environment](./technological-and-natural-environment.md)
 - [Marketing planning process](../marketing-planning-process.md)
 
-[^monitoring]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 230; PDF page 268.
-[^swot]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 230–232; PDF pages 268–270.
+[^monitoring]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 230; PDF page 268.
+[^swot]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 230–232; PDF pages 268–270.

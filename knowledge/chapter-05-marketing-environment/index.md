@@ -1,3 +1,4 @@
+
 # Chapter 5: The marketing environment
 
 This chapter explains the external actors and wider forces that shape marketing decisions. Use the linked concepts to identify dependencies, interpret change, and prepare a response without treating environmental categories as isolated realities.
@@ -15,4 +16,4 @@ This chapter explains the external actors and wider forces that shape marketing 
 
 - [Marketing environment](../marketing-environment.md)
 - [Marketing planning process](../marketing-planning-process.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

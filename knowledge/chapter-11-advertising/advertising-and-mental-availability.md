@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Advertising and mental availability
 
@@ -29,6 +29,6 @@ Prioritise distinctive branding and category-relevant memory structures. Treat a
 
 Advertising effects need not appear immediately after a campaign begins, and some memory effects can persist long after advertising stops. Weekly sales are also affected by competitor activity, promotions, price changes, launches, and weather. Short-term sales movement alone is therefore not a reliable basis for deciding whether an advertisement has worked.[^timing]
 
-[^memory]: [Primary PDF source](/release-information/source-provenance.md), Chapter 11, printed pages 449–459; PDF pages 487–497.
-[^effects]: [Primary PDF source](/release-information/source-provenance.md), Chapter 11, printed pages 460–463; PDF pages 498–501.
-[^timing]: [Primary PDF source](/release-information/source-provenance.md), Chapter 11, printed pages 450–451 and 483; PDF pages 488–489 and 521.
+[^memory]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed pages 449–459; PDF pages 487–497.
+[^effects]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed pages 460–463; PDF pages 498–501.
+[^timing]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed pages 450–451 and 483; PDF pages 488–489 and 521.

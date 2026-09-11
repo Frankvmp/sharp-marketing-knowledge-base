@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Segmentation-based targeting
 
@@ -41,5 +41,5 @@ Use segmentation to identify meaningful variation in demand or access. Do not be
 - [Customer, consumer, and influencer roles](./customer-consumer-and-influencer-roles.md)
 - [Smart targeting principles](./smart-targeting-principles.md)
 
-[^segmentation]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 248–253; PDF pages 286–291.
-[^appeal]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 251–253; PDF pages 289–291.
+[^segmentation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 248–253; PDF pages 286–291.
+[^appeal]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 251–253; PDF pages 289–291.

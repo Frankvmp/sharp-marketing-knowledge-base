@@ -3,12 +3,12 @@ type: Concept
 title: Financial metrics and profit contribution
 description: Financial outcomes require careful cost allocation and should be interpreted alongside revenue, market share, and marketing investment.
 status: draft
-tags: [chapter-3, financial-metrics, profit, contribution]
+tags: [ chapter-3, financial-metrics, profit, contribution ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: "/release-information/source-provenance.md"
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Financial metrics and profit contribution
@@ -36,6 +36,6 @@ A cost-allocation method can make a unit appear more or less profitable without 
 - [Marketing measurement system](./marketing-measurement-system.md)
 - [Causal interpretation of marketing data](./causal-interpretation-of-marketing-data.md)
 
-[^financial]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 95–100; PDF pages 133–138.
-[^system]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 92–94; PDF pages 130–132.
-[^behavioural]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed page 101; PDF page 139.
+[^financial]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 95–100; PDF pages 133–138.
+[^system]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 92–94; PDF pages 130–132.
+[^behavioural]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed page 101; PDF page 139.

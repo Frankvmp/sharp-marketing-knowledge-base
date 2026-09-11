@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Targeting returns and light buyers
 
@@ -42,6 +42,6 @@ Optimise for total category-buyer reach and incremental sales or usage. Treat hi
 - [Broad reach, product variety, and scale](./broad-reach-product-variety-and-scale.md)
 - [Light buyers and buying frequencies](../chapter-02-buyer-behaviour/light-buyers-and-buying-frequencies.md)
 
-[^returns]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 266–267; PDF pages 304–305.
-[^database]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 269–270; PDF pages 307–308.
-[^light-buyers]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed page 270; PDF page 308.
+[^returns]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 266–267; PDF pages 304–305.
+[^database]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 269–270; PDF pages 307–308.
+[^light-buyers]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed page 270; PDF page 308.

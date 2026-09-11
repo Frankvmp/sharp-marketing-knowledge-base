@@ -3,12 +3,12 @@ type: Practice Framework
 title: Media decisions and campaign reach
 description: Planning media to expose as many potential category buyers as possible with noticeable and memorable advertising.
 status: draft
-tags: [chapter-12, media, reach, campaign-evaluation]
+tags: [ chapter-12, media, reach, campaign-evaluation ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: "/release-information/source-provenance.md"
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Media decisions and campaign reach
@@ -34,5 +34,5 @@ Separating the effect of media strategy from advertising content and other marke
 - [Advertising and memory availability](./advertising-and-memory-availability.md)
 - [Metric validity and causal interpretation](./metric-validity-and-causal-interpretation.md)
 
-[^media-summary]: [Primary PDF source](/release-information/source-provenance.md), Chapter 12, printed page 551; PDF page 589.
-[^cross-media]: [Primary PDF source](/release-information/source-provenance.md), Chapter 12, printed page 550; PDF page 588.
+[^media-summary]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed page 551; PDF page 589.
+[^cross-media]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed page 550; PDF page 588.

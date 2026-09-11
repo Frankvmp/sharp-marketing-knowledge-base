@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Integrated media and scheduling
 
@@ -25,5 +25,5 @@ A media mix can expand reach because each additional medium may reach buyers mis
 
 Build a mix around incremental reach, contextual variation, and cost. Use continuous or appropriately sustained schedules unless a strong category pattern justifies concentration, and evaluate the buy against the campaign objective.[^integration][^schedule]
 
-[^integration]: [Primary PDF source](/release-information/source-provenance.md), Chapter 12, printed pages 538–543; PDF pages 576–581.
-[^schedule]: [Primary PDF source](/release-information/source-provenance.md), Chapter 12, printed pages 544–550; PDF pages 582–588.
+[^integration]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 538–543; PDF pages 576–581.
+[^schedule]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 544–550; PDF pages 582–588.

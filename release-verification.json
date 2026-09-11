@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "release_version": "0.1.0-rc1",
+  "generated_at": "2026-09-11T13:16:02Z",
+  "overall_result": "needs_review",
+  "checks": [
+    {
+      "name": "runtime-version",
+      "result": "passed",
+      "evidence": "The installed OpenKnowledge CLI reported 0.68.24 and both npx fallbacks are pinned to @inkeep/open-knowledge@0.68.24."
+    },
+    {
+      "name": "content-count",
+      "result": "passed",
+      "evidence": "OpenKnowledge counted 132 Markdown documents under knowledge/."
+    },
+    {
+      "name": "provenance-metadata",
+      "result": "passed",
+      "evidence": "Zero stale resource paths remain; 113 source-bearing records point to /knowledge/release-information/source-provenance.md. Seventeen navigation and authority-map documents retain their original absence of sources metadata."
+    },
+    {
+      "name": "navigation-links",
+      "result": "passed",
+      "evidence": "OpenKnowledge audit scanned 132 documents with links enabled and reported zero errors and zero warnings. Dead-link and orphan queries were empty."
+    },
+    {
+      "name": "configured-lint",
+      "result": "needs_review",
+      "evidence": "OpenKnowledge lint scanned 132 documents but reported ran: []; no markdownlint, frontmatter, or OKF validator was configured."
+    },
+    {
+      "name": "secret-and-personal-path-scan",
+      "result": "passed",
+      "evidence": "Literal scans found no private-key marker, API-key label, access-token label, password label, /Users/ path, Francois name, or ventervation.com value in the corpus or release administration files."
+    },
+    {
+      "name": "product-material-search-exclusion",
+      "result": "passed",
+      "evidence": "Search did not return root setup/, testing/, release-information/, index.md, or the portable skill archive."
+    },
+    {
+      "name": "runtime-search-boundary",
+      "result": "needs_review",
+      "evidence": "Unfiltered OpenKnowledge search can return its runtime-generated .claude/skills/open-knowledge/SKILL page. The portable skill was hardened and tested to discard every result outside knowledge/. A publication gateway must enforce the same path rule."
+    },
+    {
+      "name": "direct-read-boundary",
+      "result": "failed",
+      "evidence": "The local OpenKnowledge exec surface is not confined to knowledge/. Do not publish unrestricted exec. The remote gateway must expose path-constrained read operations only."
+    },
+    {
+      "name": "portable-skill",
+      "result": "passed",
+      "evidence": "OpenKnowledge accepted and installed the skill with valid metadata. A fresh Codex test loaded it, used read-only retrieval, discarded an outside-path search result, applied detailed records, separated facts from inference, identified missing information, and asked one focused question."
+    },
+    {
+      "name": "skill-archive-integrity",
+      "result": "passed",
+      "evidence": "unzip -t reported no errors; the archive contains one 2,940-byte SKILL.md."
+    }
+  ],
+  "release_decision": "The package is suitable for release-candidate review and gateway integration testing. It is not approved for unrestricted public MCP exposure."
+}

@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Quantitative research methods
 
@@ -50,9 +50,9 @@ Choose the method only after defining the population and the decision's required
 - [Qualitative research methods](./qualitative-research-methods.md)
 - [Research design and B2B research](./research-design-and-b2b-research.md)
 
-[^quantitative]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 162–163; PDF pages 200–201.
-[^methods]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 167–173; PDF pages 205–211.
-[^syndicated]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed page 167; PDF page 205.
-[^panels]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 169–171; PDF pages 207–209.
-[^social]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 185–186; PDF pages 223–224.
-[^biometrics]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 173–174; PDF pages 211–212.
+[^quantitative]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 162–163; PDF pages 200–201.
+[^methods]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 167–173; PDF pages 205–211.
+[^syndicated]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed page 167; PDF page 205.
+[^panels]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 169–171; PDF pages 207–209.
+[^social]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 185–186; PDF pages 223–224.
+[^biometrics]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 173–174; PDF pages 211–212.

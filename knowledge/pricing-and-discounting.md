@@ -3,12 +3,12 @@ type: Decision Framework
 title: Pricing and discounting
 description: Setting prices with costs, market willingness to pay, competition, elasticity, and long-term profitability in view.
 status: draft
-tags: [chapter-9, pricing, discounting, profitability]
+tags: [ chapter-9, pricing, discounting, profitability ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: "/release-information/source-provenance.md"
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Pricing and discounting
@@ -34,5 +34,5 @@ A lower purchase price can have a higher total cost of ownership where quality, 
 - [Product offer management](./product-offer-management.md)
 - [Marketing measurement system](./marketing-measurement-system.md)
 
-[^pricing]: [Primary PDF source](/release-information/source-provenance.md), Chapter 9, printed page 388; PDF page 426.
-[^pricing-summary]: [Primary PDF source](/release-information/source-provenance.md), Chapter 9, printed page 389; PDF page 427.
+[^pricing]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 9, printed page 388; PDF page 426.
+[^pricing-summary]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 9, printed page 389; PDF page 427.

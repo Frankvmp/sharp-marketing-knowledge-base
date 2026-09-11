@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Online retailing and channel power
 
@@ -34,5 +34,5 @@ Treat online and physical access as complementary channel choices. Evaluate how 
 - [Retailing and physical availability](./retailing-and-physical-availability.md)
 - [Micro-environment relationships](../chapter-05-marketing-environment/micro-environment-relationships.md)
 
-[^online]: [Primary PDF source](/release-information/source-provenance.md), Chapter 8, printed pages 348–349; PDF pages 386–387.
-[^channels]: [Primary PDF source](/release-information/source-provenance.md), Chapter 8, printed pages 349–351; PDF pages 387–389.
+[^online]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 8, printed pages 348–349; PDF pages 386–387.
+[^channels]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 8, printed pages 349–351; PDF pages 387–389.

@@ -1,3 +1,4 @@
+
 # Chapter 6: Customer segmentation and targeting
 
 This chapter distinguishes useful buyer differences from unnecessary market exclusion. Use the linked concepts to reason from evidence about market structure, buying roles, product variants, reach, and total returns.
@@ -15,4 +16,4 @@ This chapter distinguishes useful buyer differences from unnecessary market excl
 
 - [Segmentation and broad market reach](../segmentation-and-broad-market-reach.md)
 - [Buyer heterogeneity](../chapter-02-buyer-behaviour/buyer-heterogeneity.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

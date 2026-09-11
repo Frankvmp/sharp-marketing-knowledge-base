@@ -12,7 +12,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # B2B selling and key accounts
 
@@ -30,5 +30,5 @@ B2B selling identifies opportunities, develops proposals, wins business, and man
 
 Map the buying centre, prospect information needs, proposal requirements, delivery commitments, and relationship owners. Treat lost customers as future opportunities where continued relationship information remains useful.[^selling]
 
-[^selling]: [Primary PDF source](/release-information/source-provenance.md), Chapter 10, printed pages 399–404; PDF pages 437–442.
-[^accounts]: [Primary PDF source](/release-information/source-provenance.md), Chapter 10, printed pages 405–409; PDF pages 443–447.
+[^selling]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 399–404; PDF pages 437–442.
+[^accounts]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 405–409; PDF pages 443–447.

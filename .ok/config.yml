@@ -20,8 +20,8 @@
 # Path exclusions live in .okignore (gitignore syntax) at the project root,
 # with nested .okignore files honored at any folder depth.
 #
-# content:
-#   dir: .
+content:
+  dir: knowledge
 
 
 # --- Suggested lifecycle (optional pattern) --------------------------------

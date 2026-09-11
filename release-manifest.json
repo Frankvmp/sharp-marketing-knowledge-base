@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "release": {
+    "name": "Byron Sharp marketing knowledge-base reader release",
+    "version": "0.1.0-rc1",
+    "status": "release-candidate",
+    "generated_at": "2026-09-11T13:16:02Z",
+    "source_tag": "reader-release-v0.1.0-draft",
+    "source_commit": "8b8c8c4be24c849bb5c711b790e39b6dbfe14f72"
+  },
+  "runtime": {
+    "validated_openknowledge_version": "0.68.24",
+    "npx_fallback": "@inkeep/open-knowledge@0.68.24"
+  },
+  "package": {
+    "searchable_marketing_root": "knowledge/",
+    "knowledge_markdown_files": 132,
+    "knowledge_records": 130,
+    "portable_skill": "portable-skill/marketing-kb-grounded-reasoning.zip",
+    "setup_material": ["setup/"],
+    "testing_material": ["testing/"],
+    "release_administration": ["index.md", "release-information/"],
+    "inventory": "SHA256SUMS",
+    "verification_record": "release-verification.json"
+  },
+  "exclusions": {
+    "source_files": true,
+    "extraction_materials": true,
+    "construction_notes": true,
+    "semantic_audit_working_papers": true,
+    "prior_evaluation_responses": true,
+    "credentials": true
+  },
+  "inventory_policy": {
+    "algorithm": "SHA-256",
+    "includes": "Every release payload file except SHA256SUMS itself",
+    "excludes": [".git/", ".ok/local/", "ignored runtime-generated skill projections"]
+  },
+  "release_limits": {
+    "human_final_approval": "pending",
+    "public_remote_url": null,
+    "credentials_included": false,
+    "unrestricted_exec_safe": false,
+    "write_tools_safe": false,
+    "required_remote_control": "Gateway allowlist must restrict retrieval to knowledge/ and block every mutating tool."
+  }
+}

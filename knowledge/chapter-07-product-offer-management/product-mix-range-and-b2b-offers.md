@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Product mix, range, and B2B offers
 
@@ -42,5 +42,5 @@ Manage the range as a system of offers rather than independent items. Use variet
 - [Product innovation and adoption](./product-innovation-and-adoption.md)
 - [Broad reach, product variety, and scale](../chapter-06-segmentation-and-targeting/broad-reach-product-variety-and-scale.md)
 
-[^range]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 299–301; PDF pages 337–339.
-[^b2b]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 301–303; PDF pages 339–341.
+[^range]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 299–301; PDF pages 337–339.
+[^b2b]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 301–303; PDF pages 339–341.

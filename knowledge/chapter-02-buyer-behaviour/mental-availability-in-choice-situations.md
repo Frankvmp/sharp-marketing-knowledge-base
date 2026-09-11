@@ -3,12 +3,12 @@ type: Concept
 title: Mental availability in choice situations
 description: The probability that a brand is noticed, recognised, or recalled depends on accessible memory associations in a specific buying situation.
 status: draft
-tags: [chapter-2, mental-availability, memory, choice-situations]
+tags: [ chapter-2, mental-availability, memory, choice-situations ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: "/release-information/source-provenance.md"
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Mental availability in choice situations
@@ -47,5 +47,5 @@ A high general awareness score does not prove retrieval in every choice situatio
 - [Repeat buying and limited search](./repeat-buying-and-limited-search.md)
 - [Advertising and memory availability](../advertising-and-memory-availability.md)
 
-[^memory]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 49–51; PDF pages 87–89.
-[^forgetting]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed page 52; PDF page 90.
+[^memory]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 49–51; PDF pages 87–89.
+[^forgetting]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed page 52; PDF page 90.

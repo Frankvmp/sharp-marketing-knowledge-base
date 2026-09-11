@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Social marketing targets and objectives
 
@@ -43,4 +43,4 @@ An agent should define the behaviour at a measurable level, state the primary an
 
 ## Related
 
-[^objectives]: [Primary PDF source](/release-information/source-provenance.md), Chapter 16, printed pages 708–715; PDF pages 746–753.
+[^objectives]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 16, printed pages 708–715; PDF pages 746–753.

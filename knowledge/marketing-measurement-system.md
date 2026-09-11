@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: "/release-information/source-provenance.md"
+    resource: /knowledge/release-information/source-provenance.md
 ---
 
 # Marketing measurement system
@@ -62,7 +62,7 @@ Reliable measurement alone does not make a metric useful. A score becomes inform
 - [Market-based assets](./market-based-assets.md)
 - Physical availability, retailing and shopping (not included in this reader release)
 
-[^metrics-system]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 92–94; PDF pages 130–132.
-[^metrics-categories]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 94–95 and 119–120; PDF pages 132–133 and 157–158.
-[^measurement-meaning]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 88–91 and 120–123; PDF pages 126–129 and 158–161.
-[^activity-metrics]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 119–120; PDF pages 157–158.
+[^metrics-system]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 92–94; PDF pages 130–132.
+[^metrics-categories]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 94–95 and 119–120; PDF pages 132–133 and 157–158.
+[^measurement-meaning]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 88–91 and 120–123; PDF pages 126–129 and 158–161.
+[^activity-metrics]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 119–120; PDF pages 157–158.

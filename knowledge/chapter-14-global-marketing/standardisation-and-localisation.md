@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    resource: /knowledge/release-information/source-provenance.md
 ---
 # Standardisation and localisation
 
@@ -43,4 +43,4 @@ An agent should identify the specific element being standardised or adapted, the
 
 ## Related
 
-[^strategy]: [Primary PDF source](/release-information/source-provenance.md), Chapter 14, printed pages 608–610; PDF pages 646–648.
+[^strategy]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 14, printed pages 608–610; PDF pages 646–648.
