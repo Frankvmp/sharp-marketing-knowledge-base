@@ -142,7 +142,7 @@ c639e84289ba155f824c38513b67a5b04eb72f0f9b03a9867adc5cf741c2251e  ./knowledge/so
 76f32e45e5d5a15aa5f83c9b294077a0f8a5a8724569928ba087e27acf16dae1  ./release-information/.ok/frontmatter.yml
 8b87dd95e7ada76d5e2567acc25089b98aeda14742f22b78ac8115f8d17eccef  ./release-information/release-manifest.md
 d7171aabdb22d7301479bd9dd0d22f758c02c171f4610512d0e876f0255def52  ./release-information/release-overview.md
-d231698ea188a78c2e5eaa2f4dc25e97fe37538e0928f2321a467a898060e1d1  ./release-manifest.json
+040d82a3cc737eb0d774cc999b585c4f84e36d971cde674f10962e339b3f847e  ./release-manifest.json
 ecd9579f4caf9c0935bdf47ae0f4e7521406fea126ad4c758cef58ee2502c7a0  ./release-verification.json
 276f81cf6d5516557dc8a5f52de99c5b1c13856840d66407d236c3c300d4fda0  ./setup/.ok/frontmatter.yml
 0429c4ee63bff1f298c8cc59739624e8be27af6a2fede88bceba6367a83180c3  ./setup/agent-use-contract.md
