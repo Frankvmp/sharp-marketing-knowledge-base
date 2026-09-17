@@ -19,7 +19,7 @@ From either starting point, follow `[text](./path.md)`-style links to move betwe
 
 Do this before opening any concept file — it narrows 132 files down to a handful.
 
-**Step 1 — match the question's topic to a chapter below.** Match on meaning, not exact wording.
+**Step 1 — match the question's topic to a chapter below.** Match on meaning, not exact wording. A question can match one row's wording while still genuinely needing another chapter too — this is common, not an edge case. Before finalizing an answer from a single chapter alone, check whether the same topic also appears as a row in the cross-chapter authority map (Step 3); if it does, treat the question as cross-cutting even though it looked like a single-chapter match at first.
 
 | If the question is mainly about... | Start in |
 | --- | --- |
@@ -43,11 +43,11 @@ Do this before opening any concept file — it narrows 132 files down to a handf
 
 **Step 2 — open that chapter's `index.md`** (e.g. `knowledge/chapter-02-buyer-behaviour/index.md`) and scan its list of concept files and one-line descriptions for the closest match.
 
-**Step 3 — if the question overlaps more than one topic** (e.g. "how do I price my product to reach light buyers" touches both pricing and buyer behaviour), check [`knowledge/cross-chapter-authority-map.md`](./knowledge/cross-chapter-authority-map.md) before picking a file yourself. It already resolves which chapter's record is the preferred authority when topics overlap — use that instead of merging two records on your own judgement.
+**Step 3 — if the question overlaps more than one topic** (e.g. "how do I price my product to reach light buyers" touches both pricing and buyer behaviour), check [`knowledge/cross-chapter-authority-map.md`](./knowledge/cross-chapter-authority-map.md) before picking a file yourself. It already resolves which chapter's record is the preferred authority when topics overlap — use that instead of merging two records on your own judgement. When the map names a preferred detailed record directly, you can go straight to that file — you don't also need to detour through its chapter's `index.md`; the map's naming already does that job for the records it lists.
 
 **Step 4 — open the matched concept file(s)** and confirm fit against its frontmatter `description` and `tags` before treating it as the answer.
 
-**Step 5 — follow `Related` links** only for adjacent concepts the question genuinely needs — don't pull in unrelated files just because they're linked.
+**Step 5 — follow `Related` links** only for adjacent concepts the question genuinely needs — don't pull in unrelated files just because they're linked. Not every file has a `Related` section (a minority don't); if the one you're on lacks it, fall back to the chapter index or the cross-chapter authority map instead of treating the absence as "no adjacent concepts exist."
 
 ## How one knowledge file is structured
 
@@ -58,7 +58,7 @@ Every file under `knowledge/` carries YAML frontmatter followed by a body with a
 - **Mechanism and relationships** — how it works and what it connects to.
 - **Evidence and data requirements**, **Conditions and limits** — what supports the claim and where it stops applying.
 - **Decision implications** — bounded, conditional next actions.
-- **Related** — links to sibling concept files worth reading next. Follow these to explore adjacent knowledge.
+- **Related** — links to sibling concept files worth reading next, where present. Most concept files have this section, but not all do; if a file you're relying on lacks one, use the chapter's `index.md` or the cross-chapter authority map to find adjacent concepts instead of assuming none exist.
 - Numbered footnotes at the bottom (e.g. `[^mechanism]`) cite the file named in `sources[].resource`, with a chapter/page locator. The source's bibliographic identity is intentionally not disclosed anywhere in this release — locators exist only as internal traceability.
 
 ## Checking the wiki holds together (linting)
