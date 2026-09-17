@@ -28,5 +28,12 @@ Fixed costs do not change directly with unit volume; variable costs do. Marginal
 
 Use cost analysis to identify financial constraints and volume sensitivity. Do not treat a cost-plus calculation as evidence that the resulting price maximises profit or fits the market.
 
+## Related
+
+- [Market, value, and new-product pricing](./market-value-and-new-product-pricing.md)
+- [Price elasticity, promotions, and segmentation](./price-elasticity-promotions-and-segmentation.md)
+- [B2B total cost of ownership and price risk](./b2b-total-cost-of-ownership-and-price-risk.md)
+- [Pricing and discounting](../pricing-and-discounting.md)
+
 [^costs]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 9, printed pages 362–368; PDF pages 400–406.
 [^margins]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 9, printed pages 369–372; PDF pages 407–410.

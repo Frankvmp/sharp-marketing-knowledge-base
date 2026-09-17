@@ -1,13 +1,3 @@
----
-type: Knowledge Corpus Index
-title: Approved marketing knowledge corpus
-description: Read-only, source-grounded marketing records approved for agent retrieval in this reader release.
-status: draft
-tags: [approved-corpus, marketing, reader-release]
-generated:
-  by: codex/gpt-5
----
-
 # Approved marketing knowledge corpus
 
 This folder contains the only marketing knowledge records that an agent may retrieve to answer a user question in this release.

@@ -29,5 +29,11 @@ B2B selling identifies opportunities, develops proposals, wins business, and man
 
 Map the buying centre, prospect information needs, proposal requirements, delivery commitments, and relationship owners. Treat lost customers as future opportunities where continued relationship information remains useful.[^selling]
 
+## Related
+
+- [Sales management and performance](./sales-management-and-performance.md)
+- [Strategic selling, social media, and ethics](./strategic-selling-social-media-and-ethics.md)
+- [Personal selling and sales management](../personal-selling-and-sales-management.md)
+
 [^selling]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 399–404; PDF pages 437–442.
 [^accounts]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 405–409; PDF pages 443–447.

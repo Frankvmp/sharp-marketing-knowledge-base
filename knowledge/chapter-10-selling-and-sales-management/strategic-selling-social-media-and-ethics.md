@@ -24,5 +24,12 @@ Strategic sales organisations manage customer portfolios across functions and us
 
 Use digital tools to support customer value and information exchange, with explicit expectations for conduct and privacy. Treat ethics as a management-system responsibility, not only an individual salesperson's choice.[^strategic][^ethics]
 
+## Related
+
+- [B2B selling and key accounts](./b2b-selling-and-key-accounts.md)
+- [Sales management and performance](./sales-management-and-performance.md)
+- [Ethical decision frameworks](../chapter-15-ethics-and-social-responsibility/ethical-decision-frameworks.md)
+- [Personal selling and sales management](../personal-selling-and-sales-management.md)
+
 [^strategic]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 422–426; PDF pages 460–464.
 [^ethics]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 427–430; PDF pages 465–468.

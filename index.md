@@ -1,6 +1,5 @@
 ---
-title: Marketing knowledge-base reader release
-description: Front door for this read-only marketing knowledge wiki.
+okf_version: "0.2"
 ---
 
 # Marketing knowledge-base reader release

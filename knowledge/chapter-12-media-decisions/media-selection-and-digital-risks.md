@@ -28,6 +28,12 @@ Accept reasonable wastage when it buys materially greater category reach. Treat 
 
 Reach and opportunity-to-see measures describe potential access to an audience. They do not establish that a person attended to, saw, heard, or processed a particular advertisement; clutter and advertising avoidance can interrupt that path. Interpret media-delivery metrics as evidence about access, then assess advertising effects separately.[^exposure]
 
+## Related
+
+- [Reach, frequency, and media value](./reach-frequency-and-media-value.md)
+- [Integrated media and scheduling](./integrated-media-and-scheduling.md)
+- [Media decisions and campaign reach](../media-decisions-and-campaign-reach.md)
+
 [^selection]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 512–519; PDF pages 550–557.
 [^digital]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 531–537; PDF pages 569–575.
 [^exposure]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 514–516; PDF pages 552–554.

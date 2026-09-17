@@ -24,6 +24,13 @@ Price elasticity measures volume responsiveness to price change. Brand elasticit
 
 Calculate the sales increase required to offset a price reduction before discounting. Evaluate temporary promotions against contribution, long-term repeat buying, and trade effects. Differential prices require a defensible segment or cost difference and must account for fairness and resale risks.[^promotions][^segmentation]
 
+## Related
+
+- [Market, value, and new-product pricing](./market-value-and-new-product-pricing.md)
+- [Costs, margins, and profit](./costs-margins-and-profit.md)
+- [Segmentation-based targeting](../chapter-06-segmentation-and-targeting/segmentation-based-targeting.md)
+- [Pricing and discounting](../pricing-and-discounting.md)
+
 [^elasticity]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 9, printed pages 380–383; PDF pages 418–421.
 [^promotions]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 9, printed pages 384–385; PDF pages 422–423.
 [^segmentation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 9, printed pages 386–388; PDF pages 424–426.

@@ -24,4 +24,11 @@ An advertising brief should clarify the objective, audience, brand requirements,
 
 Use category buyers and potential buyers, including light buyers, as the default audience. Keep long-lived brand mandatories consistent, and assess creative ideas for brand linkage and relevant memory-building rather than message comprehension alone.[^brief]
 
+## Related
+
+- [Advertising and mental availability](./advertising-and-mental-availability.md)
+- [Advertising research and effectiveness](./advertising-research-and-effectiveness.md)
+- [Light buyers and buying frequencies](../chapter-02-buyer-behaviour/light-buyers-and-buying-frequencies.md)
+- [Advertising and memory availability](../advertising-and-memory-availability.md)
+
 [^brief]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed pages 467–473; PDF pages 505–511.

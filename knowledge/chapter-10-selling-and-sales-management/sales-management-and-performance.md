@@ -23,5 +23,11 @@ Sales management sets expectations, supports selling activities, evaluates perfo
 
 Define role clarity, performance criteria, support, feedback cycles, and training needs for each selling stage. Align sales strategy and rewards with wider business and marketing strategy.[^management]
 
+## Related
+
+- [B2B selling and key accounts](./b2b-selling-and-key-accounts.md)
+- [Strategic selling, social media, and ethics](./strategic-selling-social-media-and-ethics.md)
+- [Personal selling and sales management](../personal-selling-and-sales-management.md)
+
 [^management]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 412–415; PDF pages 450–453.
 [^performance]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 416–419; PDF pages 454–457.

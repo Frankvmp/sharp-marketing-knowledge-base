@@ -24,5 +24,11 @@ A media mix can expand reach because each additional medium may reach buyers mis
 
 Build a mix around incremental reach, contextual variation, and cost. Use continuous or appropriately sustained schedules unless a strong category pattern justifies concentration, and evaluate the buy against the campaign objective.[^integration][^schedule]
 
+## Related
+
+- [Reach, frequency, and media value](./reach-frequency-and-media-value.md)
+- [Media selection and digital risks](./media-selection-and-digital-risks.md)
+- [Media decisions and campaign reach](../media-decisions-and-campaign-reach.md)
+
 [^integration]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 538–543; PDF pages 576–581.
 [^schedule]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 544–550; PDF pages 582–588.

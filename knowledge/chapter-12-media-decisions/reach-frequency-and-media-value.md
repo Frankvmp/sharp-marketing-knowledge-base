@@ -24,4 +24,10 @@ Media value depends on the ability to reach potential category buyers at an acce
 
 Set a reach objective before selecting media. Compare total audience accumulation, duplication, exposure distribution, cost, and the incremental audience each vehicle contributes; do not optimise a single metric in isolation.[^reach]
 
+## Related
+
+- [Media selection and digital risks](./media-selection-and-digital-risks.md)
+- [Integrated media and scheduling](./integrated-media-and-scheduling.md)
+- [Media decisions and campaign reach](../media-decisions-and-campaign-reach.md)
+
 [^reach]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 505–512; PDF pages 543–550.

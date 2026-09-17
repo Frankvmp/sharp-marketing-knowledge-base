@@ -1,6 +1,10 @@
 ---
+type: Agent Instructions
 title: Agent instructions
 description: How to navigate this repository as a read-only marketing knowledge wiki.
+tags: [agents, navigation, wiki]
+generated:
+  by: claude/sonnet-5
 ---
 
 # Agent instructions
@@ -13,7 +17,7 @@ This repository is a portable, read-only marketing knowledge wiki: plain Markdow
 2. [`knowledge/index.md`](./knowledge/index.md) — the table of contents for the corpus: one entry per chapter, plus a set of cross-chapter records.
 3. [`knowledge/cross-chapter-authority-map.md`](./knowledge/cross-chapter-authority-map.md) — start here instead when a question could span more than one chapter or concept. It names the preferred detailed record for overlapping topics.
 
-From either starting point, follow `[text](./path.md)`-style links to move between documents. Every chapter folder (`knowledge/chapter-NN-*/`) has its own `index.md` listing that chapter's concept files.
+From either starting point, follow the relative Markdown links inside each file to move between documents. Every chapter folder (`knowledge/chapter-NN-*/`) has its own `index.md` listing that chapter's concept files.
 
 ## Routing a user's question to the right knowledge
 
@@ -66,7 +70,7 @@ Every file under `knowledge/` carries YAML frontmatter followed by a body with a
 There is no bundled linter or app dependency. To check the wiki is well-formed, an agent or script needs only three things, all checkable by reading plain text:
 
 1. Every `.md` file under `knowledge/` has frontmatter with at least `type`, `title`, and `description`.
-2. Every relative Markdown link (`[text](./path.md)`) resolves to a file that actually exists in the repository.
+2. Every relative Markdown link in a file's body resolves to a file that actually exists in the repository.
 3. Every footnote reference in a file's body (`[^id]`) has a matching `[^id]: ...` definition in that same file.
 
 A quick manual spot-check when in doubt: open the linked target and confirm it exists and is itself a knowledge file with frontmatter — the same way you'd verify any wiki link.

@@ -28,6 +28,13 @@ Prioritise distinctive branding and category-relevant memory structures. Treat a
 
 Advertising effects need not appear immediately after a campaign begins, and some memory effects can persist long after advertising stops. Weekly sales are also affected by competitor activity, promotions, price changes, launches, and weather. Short-term sales movement alone is therefore not a reliable basis for deciding whether an advertisement has worked.[^timing]
 
+## Related
+
+- [Advertising research and effectiveness](./advertising-research-and-effectiveness.md)
+- [Advertising briefing and creative execution](./advertising-briefing-and-creative-execution.md)
+- [Mental availability in choice situations](../chapter-02-buyer-behaviour/mental-availability-in-choice-situations.md)
+- [Advertising and memory availability](../advertising-and-memory-availability.md)
+
 [^memory]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed pages 449–459; PDF pages 487–497.
 [^effects]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed pages 460–463; PDF pages 498–501.
 [^timing]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed pages 450–451 and 483; PDF pages 488–489 and 521.
