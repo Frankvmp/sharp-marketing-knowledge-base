@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Customer motivations and benefits
@@ -34,4 +34,4 @@ Define the category benefit that the offer enables. Then test whether the featur
 - [Descriptive buyer evidence](./descriptive-buyer-evidence.md)
 - [Buyer heterogeneity](./buyer-heterogeneity.md)
 
-[^motivation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 57–59; PDF pages 95–97.
+[^motivation]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 57–59; PDF pages 95–97.

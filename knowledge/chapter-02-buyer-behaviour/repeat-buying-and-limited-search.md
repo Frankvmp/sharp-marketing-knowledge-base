@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Repeat buying and limited search
@@ -38,5 +38,5 @@ Assess whether the brand is already in the buyer's repertoire and is easy to ret
 - [Natural and divided loyalty](./natural-and-divided-loyalty.md)
 - [Mental availability in choice situations](./mental-availability-in-choice-situations.md)
 
-[^repeat]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 38–40; PDF pages 76–78.
-[^involvement]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed page 39; PDF page 77.
+[^repeat]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 38–40; PDF pages 76–78.
+[^involvement]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed page 39; PDF page 77.

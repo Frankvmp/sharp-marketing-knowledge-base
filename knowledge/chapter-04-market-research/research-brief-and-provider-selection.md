@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Research brief and provider selection
 
@@ -54,6 +54,6 @@ Before committing budget, require an explicit chain from business problem to inf
 - [Research design and B2B research](./research-design-and-b2b-research.md)
 - [Market research process](../market-research-process.md)
 
-[^brief]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 153–155; PDF pages 191–193.
-[^proposal]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed page 155; PDF page 193.
-[^selection]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed page 155; PDF page 193.
+[^brief]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 153–155; PDF pages 191–193.
+[^proposal]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed page 155; PDF page 193.
+[^selection]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed page 155; PDF page 193.

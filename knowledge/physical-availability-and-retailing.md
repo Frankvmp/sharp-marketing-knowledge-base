@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Physical availability and retailing
@@ -30,5 +30,5 @@ Assess physical availability from the buyer's perspective: whether the offer can
 - [Market-based assets](./market-based-assets.md)
 - [Repeat buying and repertoires](./repeat-buying-and-repertoires.md)
 
-[^retailing]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 8, printed pages 330–350; PDF pages 368–388.
-[^online]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 8, printed pages 349–350; PDF pages 387–388.
+[^retailing]: [Primary PDF source](/release-information/source-provenance.md), Chapter 8, printed pages 330–350; PDF pages 368–388.
+[^online]: [Primary PDF source](/release-information/source-provenance.md), Chapter 8, printed pages 349–350; PDF pages 387–388.

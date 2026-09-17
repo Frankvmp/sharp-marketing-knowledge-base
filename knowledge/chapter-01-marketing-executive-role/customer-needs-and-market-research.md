@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Customer needs and market research
 
@@ -39,4 +39,4 @@ An agent should define the customer question, identify the relevant evidence, se
 
 ## Related
 
-[^needs]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 14–22; PDF pages 52–60.
+[^needs]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 14–22; PDF pages 52–60.

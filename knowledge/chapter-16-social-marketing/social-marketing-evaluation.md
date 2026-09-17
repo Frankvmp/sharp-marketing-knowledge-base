@@ -14,7 +14,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Social marketing evaluation
 
@@ -54,4 +54,4 @@ An agent should define the behavioural outcome and baseline before launch, prese
 
 ## Related
 
-[^evaluation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 16, printed pages 721–726; PDF pages 759–764.
+[^evaluation]: [Primary PDF source](/release-information/source-provenance.md), Chapter 16, printed pages 721–726; PDF pages 759–764.

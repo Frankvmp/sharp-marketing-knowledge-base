@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "release_version": "0.1.0-rc1",
-  "generated_at": "2026-09-11T13:16:02Z",
+  "generated_at": "2026-09-17T15:18:35Z",
   "overall_result": "needs_review",
   "checks": [
     {
@@ -21,8 +21,8 @@
     },
     {
       "name": "navigation-links",
-      "result": "passed",
-      "evidence": "OpenKnowledge audit scanned 132 documents with links enabled and reported zero errors and zero warnings. Dead-link and orphan queries were empty."
+      "result": "needs_review",
+      "evidence": "A configured-root audit exposed 244 provenance-link warnings caused by a duplicated knowledge/ prefix. The source metadata and footnote paths were corrected, and a targeted corpus scan found zero remaining old paths. The final full audit was deferred at the owner's request before private test publication."
     },
     {
       "name": "configured-lint",
@@ -40,9 +40,14 @@
       "evidence": "Search did not return root setup/, testing/, release-information/, index.md, or the portable skill archive."
     },
     {
+      "name": "tool-specific-path-handling",
+      "result": "passed",
+      "evidence": "With content.dir set to knowledge, search returned mental-availability-in-choice-situations as a content-root-relative path. Converting it to knowledge/mental-availability-in-choice-situations.md for exec opened the detailed record successfully. The skill and setup guidance now document this tool-specific conversion."
+    },
+    {
       "name": "runtime-search-boundary",
       "result": "needs_review",
-      "evidence": "Unfiltered OpenKnowledge search can return its runtime-generated .claude/skills/open-knowledge/SKILL page. The portable skill was hardened and tested to discard every result outside knowledge/. A publication gateway must enforce the same path rule."
+      "evidence": "Unfiltered local OpenKnowledge search can return runtime-generated skill pages. The portable skill resolves content.dir, rejects results outside the corpus, and converts search paths for the selected read tool. The separately supplied hosted gateway was not rebuilt or remotely retested in this release pass."
     },
     {
       "name": "direct-read-boundary",
@@ -52,13 +57,13 @@
     {
       "name": "portable-skill",
       "result": "passed",
-      "evidence": "OpenKnowledge accepted and installed the skill with valid metadata. A fresh Codex test loaded it, used read-only retrieval, discarded an outside-path search result, applied detailed records, separated facts from inference, identified missing information, and asked one focused question."
+      "evidence": "OpenKnowledge accepted the managed skill with valid metadata. The packaged skill resolves the corpus root, handles differing search and exec path namespaces, restricts each turn to 5-10 search results and 2-4 detailed records with one retry, uses read-only retrieval, separates facts from inference, identifies missing information, and asks one focused question."
     },
     {
       "name": "skill-archive-integrity",
       "result": "passed",
-      "evidence": "unzip -t reported no errors; the archive contains one 2,940-byte SKILL.md."
+      "evidence": "unzip -t reported no errors; the archive contains one 4,654-byte SKILL.md."
     }
   ],
-  "release_decision": "The package is suitable for release-candidate review and gateway integration testing. It is not approved for unrestricted public MCP exposure."
+  "release_decision": "The package is suitable for private repository publication and controlled agent testing. Remote end-to-end testing and the deferred final full audit remain outstanding. It is not approved for unrestricted public MCP exposure."
 }

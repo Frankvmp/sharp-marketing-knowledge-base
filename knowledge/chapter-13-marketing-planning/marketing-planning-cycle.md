@@ -12,7 +12,7 @@ tags:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Marketing planning cycle
@@ -46,4 +46,4 @@ An agent should require an explicit link between situation analysis, target-mark
 
 ## Related
 
-[^cycle]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 13, printed pages 561–570; PDF pages 599–608.
+[^cycle]: [Primary PDF source](/release-information/source-provenance.md), Chapter 13, printed pages 561–570; PDF pages 599–608.

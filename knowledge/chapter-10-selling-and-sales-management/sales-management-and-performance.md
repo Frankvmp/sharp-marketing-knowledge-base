@@ -12,7 +12,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Sales management and performance
 
@@ -24,5 +24,5 @@ Sales management sets expectations, supports selling activities, evaluates perfo
 
 Define role clarity, performance criteria, support, feedback cycles, and training needs for each selling stage. Align sales strategy and rewards with wider business and marketing strategy.[^management]
 
-[^management]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 412–415; PDF pages 450–453.
-[^performance]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 416–419; PDF pages 454–457.
+[^management]: [Primary PDF source](/release-information/source-provenance.md), Chapter 10, printed pages 412–415; PDF pages 450–453.
+[^performance]: [Primary PDF source](/release-information/source-provenance.md), Chapter 10, printed pages 416–419; PDF pages 454–457.

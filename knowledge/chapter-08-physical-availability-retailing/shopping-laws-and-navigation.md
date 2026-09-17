@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Shopping laws and navigation
 
@@ -40,7 +40,7 @@ Shopping behaviour includes browsing and cross-purchasing, but a retailer should
 - [Retailing and physical availability](./retailing-and-physical-availability.md)
 - [Distinctive assets and packaging](../chapter-07-product-offer-management/distinctive-assets-and-packaging.md)
 
-[^shopping]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 8, printed pages 341–344; PDF pages 379–382.
-[^navigation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 8, printed pages 344–346; PDF pages 382–384.
-[^top-items]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 8, printed page 345; PDF page 383.
-[^paths]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 8, printed page 346; PDF page 384.
+[^shopping]: [Primary PDF source](/release-information/source-provenance.md), Chapter 8, printed pages 341–344; PDF pages 379–382.
+[^navigation]: [Primary PDF source](/release-information/source-provenance.md), Chapter 8, printed pages 344–346; PDF pages 382–384.
+[^top-items]: [Primary PDF source](/release-information/source-provenance.md), Chapter 8, printed page 345; PDF page 383.
+[^paths]: [Primary PDF source](/release-information/source-provenance.md), Chapter 8, printed page 346; PDF page 384.

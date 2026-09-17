@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Evidence-based marketing
@@ -52,6 +52,6 @@ This is a decision approach, not a claim that all marketing outcomes are predict
 - [Marketing metrics](./marketing-metrics.md)
 - [Marketing executive role](./marketing-executive-role.md)
 - Chapter 1 source map (not included in this reader release)
-- [Primary PDF source](/knowledge/release-information/source-provenance.md)
+- [Primary PDF source](/release-information/source-provenance.md)
 
-[^sharp-2017-ch1-evidence]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 5 and 10–12; PDF pages 43 and 48–50.
+[^sharp-2017-ch1-evidence]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 5 and 10–12; PDF pages 43 and 48–50.

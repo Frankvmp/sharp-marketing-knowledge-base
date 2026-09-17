@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Social marketing mix
 
@@ -43,4 +43,4 @@ An agent should diagnose barriers across all seven Ps before choosing campaign t
 
 ## Related
 
-[^mix]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 16, printed pages 715–720; PDF pages 753–758.
+[^mix]: [Primary PDF source](/release-information/source-provenance.md), Chapter 16, printed pages 715–720; PDF pages 753–758.

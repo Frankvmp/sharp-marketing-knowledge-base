@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Descriptive buyer evidence
@@ -44,4 +44,4 @@ Use this record before diagnosing loyalty, targeting, media, availability, or cu
 - [Repeat buying and limited search](./repeat-buying-and-limited-search.md)
 - [Buyer heterogeneity and purchase journeys](../buyer-heterogeneity-and-purchase-journeys.md)
 
-[^evidence]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 37–38; PDF pages 75–76.
+[^evidence]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 37–38; PDF pages 75–76.

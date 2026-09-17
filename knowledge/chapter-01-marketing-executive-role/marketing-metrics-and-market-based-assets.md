@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Marketing metrics and market-based assets
 
@@ -43,4 +43,4 @@ An agent should evaluate marketing action through both immediate outcomes and it
 
 ## Related
 
-[^assets]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 15–19; PDF pages 53–57.
+[^assets]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 15–19; PDF pages 53–57.

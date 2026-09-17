@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Attitudes, intentions, and buying behaviour
@@ -35,5 +35,5 @@ When the objective is behaviour change, diagnose situational and environmental b
 - [Heuristics and non-conscious choice](./heuristics-and-non-conscious-choice.md)
 - [Metric validity and causal interpretation](../metric-validity-and-causal-interpretation.md)
 
-[^attitudes]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 65–71; PDF pages 103–109.
-[^conclusion]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 73–74; PDF pages 111–112.
+[^attitudes]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 65–71; PDF pages 103–109.
+[^conclusion]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 73–74; PDF pages 111–112.

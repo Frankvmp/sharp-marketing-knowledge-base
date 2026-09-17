@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # B2B total cost of ownership and price risk
 
@@ -43,4 +43,4 @@ For B2B pricing, make the full cost and risk logic visible to the buyer. Do not 
 - [Costs, margins, and profit](./costs-margins-and-profit.md)
 - [Product mix, range, and B2B offers](../chapter-07-product-offer-management/product-mix-range-and-b2b-offers.md)
 
-[^b2b]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 9, printed pages 387–388; PDF pages 425–426.
+[^b2b]: [Primary PDF source](/release-information/source-provenance.md), Chapter 9, printed pages 387–388; PDF pages 425–426.

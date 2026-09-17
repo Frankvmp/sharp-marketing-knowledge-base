@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Technological and natural environment
 
@@ -42,5 +42,5 @@ Maintain a technology-and-resource watchlist linked to customer behaviour, opera
 - [Environmental scanning, SWOT, and ETOP](./environmental-scanning-swot-and-etop.md)
 - [Sustainable marketing](../sustainable-marketing.md)
 
-[^technology]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 226–228; PDF pages 264–266.
-[^natural]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 229; PDF page 267.
+[^technology]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 226–228; PDF pages 264–266.
+[^natural]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 229; PDF page 267.

@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Segmentation and broad market reach
@@ -50,6 +50,6 @@ Avoid both extremes: a target so narrow that the organisation misses possible bu
 - [Mental availability in choice situations](./mental-availability-in-choice-situations.md)
 - [Market-based assets](./market-based-assets.md)
 
-[^segmentation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 248–253; PDF pages 286–291.
-[^product-variety]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 262–273; PDF pages 300–311.
-[^segmentation-conclusion]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed page 274; PDF page 312.
+[^segmentation]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 248–253; PDF pages 286–291.
+[^product-variety]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 262–273; PDF pages 300–311.
+[^segmentation-conclusion]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed page 274; PDF page 312.

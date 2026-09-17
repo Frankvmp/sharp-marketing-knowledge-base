@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Repeat buying and repertoires
@@ -54,5 +54,5 @@ Assess the current repertoire and the relevant buying situation before assuming 
 - [Market-based assets](./market-based-assets.md)
 - [Buyer behaviour evidence](./buyer-behaviour-evidence.md)
 
-[^repeat-buying]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 38–40; PDF pages 76–78.
-[^natural-loyalty]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 40–43; PDF pages 78–81.
+[^repeat-buying]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 38–40; PDF pages 76–78.
+[^natural-loyalty]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 40–43; PDF pages 78–81.

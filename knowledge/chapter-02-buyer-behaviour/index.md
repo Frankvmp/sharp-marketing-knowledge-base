@@ -27,6 +27,6 @@ A source section is complete only when its important concepts, evidence, conditi
 
 - Chapter 2 PDF source map (not included in this reader release)
 - [Existing Chapter 2 overview: buyer behaviour evidence](../buyer-behaviour-evidence.md)
-- [Primary PDF source](/knowledge/release-information/source-provenance.md)
+- [Primary PDF source](/release-information/source-provenance.md)
 
-[^source]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 34–83; PDF pages 72–121.
+[^source]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 34–83; PDF pages 72–121.

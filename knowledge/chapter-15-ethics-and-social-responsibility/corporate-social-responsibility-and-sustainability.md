@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Corporate social responsibility and sustainability
 
@@ -43,4 +43,4 @@ An agent should distinguish legal compliance, philanthropy, cause-related market
 
 ## Related
 
-[^csr]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 15, printed pages 679–689; PDF pages 717–727.
+[^csr]: [Primary PDF source](/release-information/source-provenance.md), Chapter 15, printed pages 679–689; PDF pages 717–727.

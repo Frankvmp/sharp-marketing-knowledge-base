@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Qualitative research methods
 
@@ -50,6 +50,6 @@ Use qualitative evidence to discover and clarify the possible causes, language, 
 - [Sampling and representativeness](./sampling-and-representativeness.md)
 - [Research design and B2B research](./research-design-and-b2b-research.md)
 
-[^qualitative]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 162–163; PDF pages 200–201.
-[^methods]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 163–166; PDF pages 201–204.
-[^quality]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 166–167; PDF pages 204–205.
+[^qualitative]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 162–163; PDF pages 200–201.
+[^methods]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 163–166; PDF pages 201–204.
+[^quality]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 166–167; PDF pages 204–205.

@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Sustainable marketing
 
@@ -39,4 +39,4 @@ An agent should state the short-term benefit, the long-term risks, the affected 
 
 ## Related
 
-[^sustainable]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 17–24; PDF pages 55–62.
+[^sustainable]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 17–24; PDF pages 55–62.

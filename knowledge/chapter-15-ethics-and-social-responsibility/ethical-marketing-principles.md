@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Ethical marketing principles
 
@@ -43,4 +43,4 @@ An agent should separate legality from ethical acceptability, identify affected 
 
 ## Related
 
-[^principles]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 15, printed pages 641–645 and 688–689; PDF pages 679–683 and 726–727.
+[^principles]: [Primary PDF source](/release-information/source-provenance.md), Chapter 15, printed pages 641–645 and 688–689; PDF pages 679–683 and 726–727.

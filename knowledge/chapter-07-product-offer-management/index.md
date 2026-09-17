@@ -16,4 +16,4 @@ This chapter treats products as total offers that fulfil a customer purpose. The
 ## Related
 
 - [Product offer management](../product-offer-management.md)
-- [Primary PDF source](/knowledge/release-information/source-provenance.md)
+- [Primary PDF source](/release-information/source-provenance.md)

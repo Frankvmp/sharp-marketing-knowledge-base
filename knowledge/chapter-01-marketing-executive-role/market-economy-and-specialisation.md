@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Market economy and specialisation
 
@@ -39,4 +39,4 @@ An agent should analyse the network of buyers, sellers, intermediaries, and ince
 
 ## Related
 
-[^economy]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 8–10 and 25–27; PDF pages 46–48 and 63–65.
+[^economy]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 8–10 and 25–27; PDF pages 46–48 and 63–65.

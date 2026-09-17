@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Heuristics and non-conscious choice
@@ -38,5 +38,5 @@ Asking a buyer why a brand was purchased can elicit a rationalisation rather tha
 - [Mental availability in choice situations](./mental-availability-in-choice-situations.md)
 - [Attitudes, intentions, and buying behaviour](./attitudes-intentions-and-buying-behaviour.md)
 
-[^nonconscious]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 52–54; PDF pages 90–92.
-[^heuristics]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 54–56; PDF pages 92–94.
+[^nonconscious]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 52–54; PDF pages 90–92.
+[^heuristics]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 54–56; PDF pages 92–94.

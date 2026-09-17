@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Economic and political environment
 
@@ -42,5 +42,5 @@ Maintain explicit assumptions about demand, cost, access, and regulation. Link e
 - [Environmental scanning, SWOT, and ETOP](./environmental-scanning-swot-and-etop.md)
 - [Global marketing adaptation](../global-marketing-adaptation.md)
 
-[^economic]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 222–225; PDF pages 260–263.
-[^political]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 225–226; PDF pages 263–264.
+[^economic]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 222–225; PDF pages 260–263.
+[^political]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 225–226; PDF pages 263–264.

@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Buyer heterogeneity
@@ -37,4 +37,4 @@ Not every observed difference is actionable. Hair colour could matter for hair d
 - [Customer motivations and benefits](./customer-motivations-and-benefits.md)
 - [Purchase-journey diagnosis](./purchase-journey-diagnosis.md)
 
-[^heterogeneity]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 60–62; PDF pages 98–100.
+[^heterogeneity]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 60–62; PDF pages 98–100.

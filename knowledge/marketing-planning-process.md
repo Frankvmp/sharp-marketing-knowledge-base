@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Marketing planning process
@@ -36,4 +36,4 @@ A plan improves discipline but does not create complete knowledge of a market, e
 - [Segmentation and broad market reach](./segmentation-and-broad-market-reach.md)
 - [Marketing measurement system](./marketing-measurement-system.md)
 
-[^planning]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 13, printed page 586; PDF page 624.
+[^planning]: [Primary PDF source](/release-information/source-provenance.md), Chapter 13, printed page 586; PDF page 624.

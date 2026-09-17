@@ -14,4 +14,4 @@ This chapter is represented as linked, source-grounded concepts.
 
 - [Marketing executive role](../marketing-executive-role.md)
 - [Evidence-based marketing](../evidence-based-marketing.md)
-- [Primary PDF source](/knowledge/release-information/source-provenance.md)
+- [Primary PDF source](/release-information/source-provenance.md)

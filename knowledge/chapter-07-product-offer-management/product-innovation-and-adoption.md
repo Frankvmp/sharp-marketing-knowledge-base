@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Product innovation and adoption
 
@@ -42,6 +42,6 @@ Design product development around customer adoption barriers, not only technical
 - [Product category life cycle and growth options](./product-category-life-cycle-and-growth-options.md)
 - [Market research process](../market-research-process.md)
 
-[^innovation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 304–305; PDF pages 342–343.
-[^adoption]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed page 306; PDF page 344.
-[^screening]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed page 307; PDF page 345.
+[^innovation]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 304–305; PDF pages 342–343.
+[^adoption]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed page 306; PDF page 344.
+[^screening]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed page 307; PDF page 345.

@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Behavioural metrics
@@ -38,5 +38,5 @@ Use behavioural measures to establish the buyer base and performance pattern bef
 - [Brand-size effects and double jeopardy](./brand-size-effects-and-double-jeopardy.md)
 - [Memory and customer-profile metrics](./memory-and-customer-profile-metrics.md)
 
-[^behavioural]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 101–113; PDF pages 139–151.
-[^scr]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed page 107; PDF page 145.
+[^behavioural]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 101–113; PDF pages 139–151.
+[^scr]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed page 107; PDF page 145.

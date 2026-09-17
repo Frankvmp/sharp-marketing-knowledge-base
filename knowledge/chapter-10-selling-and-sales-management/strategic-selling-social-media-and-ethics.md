@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Strategic selling, social media, and ethics
 
@@ -25,5 +25,5 @@ Strategic sales organisations manage customer portfolios across functions and us
 
 Use digital tools to support customer value and information exchange, with explicit expectations for conduct and privacy. Treat ethics as a management-system responsibility, not only an individual salesperson's choice.[^strategic][^ethics]
 
-[^strategic]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 422–426; PDF pages 460–464.
-[^ethics]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed pages 427–430; PDF pages 465–468.
+[^strategic]: [Primary PDF source](/release-information/source-provenance.md), Chapter 10, printed pages 422–426; PDF pages 460–464.
+[^ethics]: [Primary PDF source](/release-information/source-provenance.md), Chapter 10, printed pages 427–430; PDF pages 465–468.

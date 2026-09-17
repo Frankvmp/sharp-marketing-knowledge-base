@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Ethical marketing and social responsibility
@@ -35,4 +35,4 @@ Ethical decisions are complex because stakeholders can reasonably disagree about
 - [Sustainable marketing](./sustainable-marketing.md)
 - [Marketing environment](./marketing-environment.md)
 
-[^ethics]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 15, printed page 688; PDF page 726.
+[^ethics]: [Primary PDF source](/release-information/source-provenance.md), Chapter 15, printed page 688; PDF page 726.

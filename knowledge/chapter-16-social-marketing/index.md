@@ -12,4 +12,4 @@ This chapter is represented as linked, source-grounded concepts.
 
 - [Social marketing application](../social-marketing-application.md)
 - [Social marketing evaluation](../social-marketing-evaluation.md)
-- [Primary PDF source](/knowledge/release-information/source-provenance.md)
+- [Primary PDF source](/release-information/source-provenance.md)

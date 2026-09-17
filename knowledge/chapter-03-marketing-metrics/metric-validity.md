@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Metric validity
@@ -38,4 +38,4 @@ Do not act on a metric until its interpretation is known. Use validated measures
 - [Memory and customer-profile metrics](./memory-and-customer-profile-metrics.md)
 - [Causal interpretation of marketing data](./causal-interpretation-of-marketing-data.md)
 
-[^validity]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 120–123; PDF pages 158–161.
+[^validity]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 120–123; PDF pages 158–161.

@@ -9,4 +9,4 @@
 ## Related
 
 - [Pricing and discounting](../pricing-and-discounting.md)
-- [Primary PDF source](/knowledge/release-information/source-provenance.md)
+- [Primary PDF source](/release-information/source-provenance.md)

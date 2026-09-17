@@ -27,8 +27,10 @@ This release candidate was validated with OpenKnowledge `0.68.24`. Its `npx` fal
 3. Confirm that the agent can use OpenKnowledge search and document-reading tools.
 4. Give the agent the [agent-use contract](./agent-use-contract.md), or tell it to read that document before answering.
 5. Install `portable-skill/marketing-kb-grounded-reasoning.zip` using the chosen host's normal skill-install process.
-6. Confirm that OpenKnowledge search returns only paths under `knowledge/`.
+6. Confirm the effective `content.dir` and test the path form required by each read tool. Search results may be content-root-relative, while `exec` reads are repository-relative. When `content.dir` is `knowledge`, convert a search result such as `chapter-02-buyer-behaviour/mental-availability-in-choice-situations` to `knowledge/chapter-02-buyer-behaviour/mental-availability-in-choice-situations.md` for `exec`. If a result already begins with `knowledge/`, do not add the prefix again.
 7. Run the connection check below.
+
+Keep the first retrieval narrow: request 5–10 search results, read 2–4 detailed records, and allow one short reformulated search. Run `audit` without a path to check the configured corpus. When `content.dir` is `knowledge`, do not pass `knowledge` as though it were a child folder.
 
 ## Connection check
 

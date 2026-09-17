@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Marketing executive role
@@ -51,6 +51,6 @@ This is the chapter's role framing, not a complete operational procedure. It ide
 ## Related
 
 - Chapter 1 source map (not included in this reader release)
-- [Primary PDF source](/knowledge/release-information/source-provenance.md)
+- [Primary PDF source](/release-information/source-provenance.md)
 
-[^sharp-2017-ch1-role]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 5–6; PDF pages 43–44.
+[^sharp-2017-ch1-role]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 5–6; PDF pages 43–44.

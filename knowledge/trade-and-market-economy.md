@@ -14,7 +14,7 @@ tags:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Trade and market economy
@@ -55,4 +55,4 @@ An agent should identify the relevant buyers, offerings, alternatives, and route
 - [Market-based assets](./market-based-assets.md)
 - Chapter 1 source map (not included in this reader release)
 
-[^sharp-2017-ch1-trade]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 7–10; PDF pages 45–48.
+[^sharp-2017-ch1-trade]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 7–10; PDF pages 45–48.

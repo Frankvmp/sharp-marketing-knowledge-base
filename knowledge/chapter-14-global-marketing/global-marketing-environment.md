@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Global marketing environment
 
@@ -43,4 +43,4 @@ An agent should make environmental analysis explicit before recommending a forei
 
 ## Related
 
-[^environment]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 14, printed pages 607, 610–612; PDF pages 645, 648–650.
+[^environment]: [Primary PDF source](/release-information/source-provenance.md), Chapter 14, printed pages 607, 610–612; PDF pages 645, 648–650.

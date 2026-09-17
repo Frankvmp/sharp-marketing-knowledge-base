@@ -8,4 +8,4 @@
 ## Related
 
 - [Personal selling and sales management](../personal-selling-and-sales-management.md)
-- [Primary PDF source](/knowledge/release-information/source-provenance.md)
+- [Primary PDF source](/release-information/source-provenance.md)

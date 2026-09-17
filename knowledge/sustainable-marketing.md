@@ -14,7 +14,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Sustainable marketing
@@ -54,6 +54,6 @@ This is Sharp's Chapter 1 framing. It is not a complete ethical theory, environm
 - [Marketing metrics](./marketing-metrics.md)
 - [Market-based assets](./market-based-assets.md)
 - Chapter 1 source map (not included in this reader release)
-- [Primary PDF source](/knowledge/release-information/source-provenance.md)
+- [Primary PDF source](/release-information/source-provenance.md)
 
-[^sharp-2017-ch1-sustainable]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 21–22; PDF pages 59–60.
+[^sharp-2017-ch1-sustainable]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 21–22; PDF pages 59–60.

@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Purchase-journey diagnosis
@@ -38,4 +38,4 @@ Use the journey to diagnose the problem before selecting tactics. Do not spend o
 - [Buyer heterogeneity](./buyer-heterogeneity.md)
 - [Mental availability in choice situations](./mental-availability-in-choice-situations.md)
 
-[^journey]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 63–64; PDF pages 101–102.
+[^journey]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 63–64; PDF pages 101–102.

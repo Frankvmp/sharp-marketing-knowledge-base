@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Stakeholder responsibility
 
@@ -43,4 +43,4 @@ An agent should map who is affected and who can influence the outcome before rec
 
 ## Related
 
-[^stakeholders]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 15, printed pages 646–652; PDF pages 684–690.
+[^stakeholders]: [Primary PDF source](/release-information/source-provenance.md), Chapter 15, printed pages 646–652; PDF pages 684–690.

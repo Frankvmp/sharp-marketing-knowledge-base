@@ -38,6 +38,10 @@ Prefer detailed chapter records for mechanisms, conditions, procedures, and sour
 
 If the corpus does not support an answer, say so plainly.
 
+Resolve paths before reading. Read the effective OpenKnowledge `content.dir` first and treat it as the corpus root. Search results may be relative to that root, while a lower-level reader such as `exec` may require a repository-relative path. Validate that the result belongs to the corpus, then convert it for the read tool: if `content.dir` is `knowledge` and search returns `chapter-02/record`, use `knowledge/chapter-02/record.md` with `exec`; if the result already begins with `knowledge/`, do not add the prefix again. Reject absolute paths, `../` traversal, and setup, testing, release-administration, portable-skill, or agent-skill/runtime paths. Resolve an ambiguous path before reading it.
+
+Keep retrieval small. Use a navigation record to orient the search, request about 5–10 results, read only the 2–4 records most relevant to the question, and make at most one short reformulated search when the first search is weak. Do not dump directories or retrieve the whole corpus. Stop when the evidence supports the answer, its limits, and one useful next question.
+
 ## Release-candidate and skill context
 
 This contract applies to version `0.1.0-rc1`, derived from source tag `reader-release-v0.1.0-draft` at source commit `8b8c8c4be24c849bb5c711b790e39b6dbfe14f72`.

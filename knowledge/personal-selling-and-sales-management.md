@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Personal selling and sales management
@@ -30,4 +30,4 @@ Consumer selling is often less complex than business selling, but exceptions exi
 - [Market research process](./market-research-process.md)
 - [Buyer behaviour evidence](./buyer-behaviour-evidence.md)
 
-[^selling]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 10, printed page 430; PDF page 468.
+[^selling]: [Primary PDF source](/release-information/source-provenance.md), Chapter 10, printed page 430; PDF page 468.

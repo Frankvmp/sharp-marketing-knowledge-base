@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Light buyers and buying frequencies
@@ -44,4 +44,4 @@ Build and maintain attention and availability for the broad buyer base, includin
 - [Natural and divided loyalty](./natural-and-divided-loyalty.md)
 - [Mental availability in choice situations](./mental-availability-in-choice-situations.md)
 
-[^frequency]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 46–47; PDF pages 84–85.
+[^frequency]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 46–47; PDF pages 84–85.

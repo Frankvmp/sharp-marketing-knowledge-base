@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Buyer heterogeneity and purchase journeys
@@ -53,5 +53,5 @@ A standard funnel can be a useful diagnostic reminder, but it is not a valid rea
 - [Repeat buying and repertoires](./repeat-buying-and-repertoires.md)
 - PDF chapter map (not included in this reader release)
 
-[^heterogeneity]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 60–62; PDF pages 98–100.
-[^journey]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 63–64; PDF pages 101–102.
+[^heterogeneity]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 60–62; PDF pages 98–100.
+[^journey]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 63–64; PDF pages 101–102.

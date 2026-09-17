@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Memory and customer-profile metrics
@@ -34,5 +34,5 @@ Use memory measures to diagnose accessible associations and profile measures to 
 - [Behavioural metrics](./behavioural-metrics.md)
 - [Metric validity](./metric-validity.md)
 
-[^memory]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 113–118; PDF pages 151–156.
-[^profile]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed page 118; PDF page 156.
+[^memory]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 113–118; PDF pages 151–156.
+[^profile]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed page 118; PDF page 156.

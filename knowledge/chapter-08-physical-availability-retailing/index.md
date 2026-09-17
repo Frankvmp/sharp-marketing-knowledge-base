@@ -9,4 +9,4 @@
 ## Related
 
 - [Physical availability and retailing](../physical-availability-and-retailing.md)
-- [Primary PDF source](/knowledge/release-information/source-provenance.md)
+- [Primary PDF source](/release-information/source-provenance.md)

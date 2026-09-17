@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Ethical risks in the marketing mix
 
@@ -43,4 +43,4 @@ An agent should assess product, price, promotion, and physical availability sepa
 
 ## Related
 
-[^mix]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 15, printed pages 653–668; PDF pages 691–706.
+[^mix]: [Primary PDF source](/release-information/source-provenance.md), Chapter 15, printed pages 653–668; PDF pages 691–706.

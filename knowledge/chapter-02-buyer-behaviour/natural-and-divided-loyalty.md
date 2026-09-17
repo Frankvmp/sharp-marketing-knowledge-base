@@ -8,7 +8,7 @@ generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 
 # Natural and divided loyalty
@@ -44,5 +44,5 @@ Do not make exclusive loyalty the default objective. Evaluate whether the brand 
 - [Repeat buying and limited search](./repeat-buying-and-limited-search.md)
 - [Light buyers and buying frequencies](./light-buyers-and-buying-frequencies.md)
 
-[^loyalty]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 40–45; PDF pages 78–83.
-[^prosaic]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 45–46; PDF pages 83–84.
+[^loyalty]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 40–45; PDF pages 78–83.
+[^prosaic]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 45–46; PDF pages 83–84.

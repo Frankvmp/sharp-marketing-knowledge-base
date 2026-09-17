@@ -13,7 +13,7 @@ generated:
 sources:
   - id: original-pdf
     title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /knowledge/release-information/source-provenance.md
+    resource: /release-information/source-provenance.md
 ---
 # Market, value, and new-product pricing
 
@@ -25,5 +25,5 @@ Market-based pricing considers competitive alternatives and buyer willingness to
 
 Assess the total offer, alternative solutions, channel margins, customer value, and feasible price range. A price can signal relative position, but perceived value requires an offer buyers want and can compare.[^market][^new]
 
-[^market]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 9, printed pages 373–377; PDF pages 411–415.
-[^new]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 9, printed pages 378–379; PDF pages 416–417.
+[^market]: [Primary PDF source](/release-information/source-provenance.md), Chapter 9, printed pages 373–377; PDF pages 411–415.
+[^new]: [Primary PDF source](/release-information/source-provenance.md), Chapter 9, printed pages 378–379; PDF pages 416–417.
