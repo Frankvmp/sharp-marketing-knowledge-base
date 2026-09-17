@@ -7,8 +7,8 @@ tags: [ chapter-3, metrics, measurement-system, market-based-assets ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Marketing measurement system
@@ -38,4 +38,4 @@ The system focuses on marketing-relevant measures, not every operational metric 
 - [Financial metrics and profit contribution](./financial-metrics-and-profit-contribution.md)
 - [Activity and physical-availability metrics](./activity-and-physical-availability-metrics.md)
 
-[^system]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 92–94; PDF pages 130–132.
+[^system]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 92–94; PDF pages 130–132.

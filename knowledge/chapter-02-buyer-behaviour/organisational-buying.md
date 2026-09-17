@@ -7,8 +7,8 @@ tags: [ chapter-2, b2b, organisational-buying, buying-centre ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Organisational buying
@@ -34,4 +34,4 @@ Identify the decision-making unit, each role's requirements, the purchase risks,
 - [Descriptive buyer evidence](./descriptive-buyer-evidence.md)
 - [Purchase-journey diagnosis](./purchase-journey-diagnosis.md)
 
-[^b2b]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 72–73; PDF pages 110–111.
+[^b2b]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 72–73; PDF pages 110–111.

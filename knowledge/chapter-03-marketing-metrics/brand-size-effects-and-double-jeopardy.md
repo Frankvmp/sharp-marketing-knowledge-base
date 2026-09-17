@@ -7,8 +7,8 @@ tags: [ chapter-3, brand-size, double-jeopardy, benchmarks ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Brand-size effects and double jeopardy
@@ -34,5 +34,5 @@ Adjust or contextualise memory and attitude comparisons for brand penetration an
 - [Behavioural metrics](./behavioural-metrics.md)
 - [Metric validity](./metric-validity.md)
 
-[^size]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 124–125; PDF pages 162–163.
-[^double-jeopardy]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 125–126; PDF pages 163–164.
+[^size]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 124–125; PDF pages 162–163.
+[^double-jeopardy]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 125–126; PDF pages 163–164.

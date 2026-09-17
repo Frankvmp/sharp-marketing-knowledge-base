@@ -11,8 +11,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # International market expansion
 
@@ -42,4 +42,4 @@ An agent should assess foreign-market opportunity and operating conditions toget
 
 ## Related
 
-[^expansion]: [Primary PDF source](/release-information/source-provenance.md), Chapter 14, printed pages 605–607; PDF pages 643–645.
+[^expansion]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 14, printed pages 605–607; PDF pages 643–645.

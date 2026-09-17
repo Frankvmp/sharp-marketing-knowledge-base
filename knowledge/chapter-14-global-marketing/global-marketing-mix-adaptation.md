@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Global marketing-mix adaptation
 
@@ -43,4 +43,4 @@ An agent should test each marketing-mix element separately, specify the local co
 
 ## Related
 
-[^mix]: [Primary PDF source](/release-information/source-provenance.md), Chapter 14, printed pages 613–627; PDF pages 651–665.
+[^mix]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 14, printed pages 613–627; PDF pages 651–665.

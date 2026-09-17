@@ -14,8 +14,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Ethical decision frameworks
 
@@ -55,4 +55,4 @@ An agent should make the ethical basis of a recommendation explicit: identify co
 
 ## Related
 
-[^frameworks]: [Primary PDF source](/release-information/source-provenance.md), Chapter 15, printed pages 669–675; PDF pages 707–713.
+[^frameworks]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 15, printed pages 669–675; PDF pages 707–713.

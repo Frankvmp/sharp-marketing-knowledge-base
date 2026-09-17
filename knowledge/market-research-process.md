@@ -11,8 +11,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Market research process
@@ -48,7 +48,7 @@ A technically advanced method is not automatically scientific, trustworthy, or u
 - [Buyer behaviour evidence](./buyer-behaviour-evidence.md)
 - [Metric validity and causal interpretation](./metric-validity-and-causal-interpretation.md)
 
-[^research-process]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 153–194; PDF pages 191–232.
-[^b2b-research]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed page 187; PDF page 225.
-[^reporting]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed page 193; PDF page 231.
-[^data-presentation]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed page 194; PDF page 232.
+[^research-process]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 153–194; PDF pages 191–232.
+[^b2b-research]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed page 187; PDF page 225.
+[^reporting]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed page 193; PDF page 231.
+[^data-presentation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed page 194; PDF page 232.

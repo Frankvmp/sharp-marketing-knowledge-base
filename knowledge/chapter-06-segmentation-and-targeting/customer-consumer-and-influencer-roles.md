@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Customer, consumer, and influencer roles
 
@@ -41,5 +41,5 @@ Map the complete buying system before setting audience, message, offer, channel,
 - [Segmentation-based targeting](./segmentation-based-targeting.md)
 - [Broad reach, product variety, and scale](./broad-reach-product-variety-and-scale.md)
 
-[^roles]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 254–256; PDF pages 292–294.
-[^variants]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 256–259; PDF pages 294–297.
+[^roles]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 254–256; PDF pages 292–294.
+[^variants]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 256–259; PDF pages 294–297.

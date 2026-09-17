@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Product category life cycle and growth options
 
@@ -38,5 +38,5 @@ Use lifecycle stage as a hypothesis about market conditions, then verify it with
 - [Product innovation and adoption](./product-innovation-and-adoption.md)
 - [Environmental scanning, SWOT, and ETOP](../chapter-05-marketing-environment/environmental-scanning-swot-and-etop.md)
 
-[^plc]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 308–310; PDF pages 346–348.
-[^maturity]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 311–312; PDF pages 349–350.
+[^plc]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 308–310; PDF pages 346–348.
+[^maturity]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 311–312; PDF pages 349–350.

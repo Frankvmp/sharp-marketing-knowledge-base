@@ -12,8 +12,8 @@ tags:
   - evidence-based-marketing
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Marketer roles
@@ -53,4 +53,4 @@ Before recommending action, identify whether the task is execution, decision-mak
 - [Marketing executive role](./marketing-executive-role.md)
 - Chapter 1 source map (not included in this reader release)
 
-[^sharp-2017-ch1-roles]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed page 10; PDF page 48.
+[^sharp-2017-ch1-roles]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed page 10; PDF page 48.

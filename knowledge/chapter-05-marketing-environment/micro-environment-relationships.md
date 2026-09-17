@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Micro-environment relationships
 
@@ -42,10 +42,10 @@ Map every actor needed to create, distribute, communicate, and support the offer
 - [Publics, value chains, and dependencies](./publics-value-chains-and-dependencies.md)
 - [Marketing environment](../marketing-environment.md)
 
-[^micro]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 208–209; PDF pages 246–247.
-[^organisation]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 209; PDF page 247.
-[^customers]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 209; PDF page 247.
-[^competitors]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 210; PDF page 248.
-[^intermediaries]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 210–211; PDF pages 248–249.
-[^suppliers]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 211; PDF page 249.
-[^power]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 217; PDF page 255.
+[^micro]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 208–209; PDF pages 246–247.
+[^organisation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 209; PDF page 247.
+[^customers]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 209; PDF page 247.
+[^competitors]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 210; PDF page 248.
+[^intermediaries]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 210–211; PDF pages 248–249.
+[^suppliers]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 211; PDF page 249.
+[^power]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 217; PDF page 255.

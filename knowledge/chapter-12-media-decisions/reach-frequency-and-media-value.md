@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Reach, frequency, and media value
 
@@ -25,4 +25,4 @@ Media value depends on the ability to reach potential category buyers at an acce
 
 Set a reach objective before selecting media. Compare total audience accumulation, duplication, exposure distribution, cost, and the incremental audience each vehicle contributes; do not optimise a single metric in isolation.[^reach]
 
-[^reach]: [Primary PDF source](/release-information/source-provenance.md), Chapter 12, printed pages 505–512; PDF pages 543–550.
+[^reach]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 12, printed pages 505–512; PDF pages 543–550.

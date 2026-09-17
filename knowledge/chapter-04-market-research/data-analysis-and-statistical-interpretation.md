@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Data analysis and statistical interpretation
 
@@ -56,7 +56,7 @@ Use simple summaries as the baseline and require explanation of assumptions behi
 - [Research design and B2B research](./research-design-and-b2b-research.md)
 - [Causal interpretation of marketing data](../chapter-03-marketing-metrics/causal-interpretation-of-marketing-data.md)
 
-[^analysis]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 189–190; PDF pages 227–228.
-[^significance]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed page 191; PDF page 229.
-[^msod]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 191–193; PDF pages 229–231.
-[^reporting]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 193–194; PDF pages 231–232.
+[^analysis]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 189–190; PDF pages 227–228.
+[^significance]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed page 191; PDF page 229.
+[^msod]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 191–193; PDF pages 229–231.
+[^reporting]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 193–194; PDF pages 231–232.

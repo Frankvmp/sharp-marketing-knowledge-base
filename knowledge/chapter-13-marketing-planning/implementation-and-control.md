@@ -11,8 +11,8 @@ tags:
   - marketing-control
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Marketing implementation and control
@@ -50,4 +50,4 @@ An agent should not recommend a strategy without defining ownership, resources, 
 
 ## Related
 
-[^implementation]: [Primary PDF source](/release-information/source-provenance.md), Chapter 13, printed pages 569–570; PDF pages 607–608.
+[^implementation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 13, printed pages 569–570; PDF pages 607–608.

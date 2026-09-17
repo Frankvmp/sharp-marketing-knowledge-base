@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Distinctive assets and packaging
 
@@ -38,6 +38,6 @@ Before altering a recognisable cue, assess its role in purchase identification a
 - [Total offer and core need](./total-offer-and-core-need.md)
 - [Advertising and memory availability](../advertising-and-memory-availability.md)
 
-[^names]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 292–295; PDF pages 330–333.
-[^assets]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 295–297; PDF pages 333–335.
-[^packaging]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 296–299; PDF pages 334–337.
+[^names]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 292–295; PDF pages 330–333.
+[^assets]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 295–297; PDF pages 333–335.
+[^packaging]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 296–299; PDF pages 334–337.

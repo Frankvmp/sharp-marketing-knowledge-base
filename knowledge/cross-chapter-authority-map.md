@@ -87,4 +87,4 @@ No record is retired or merged in this pass. The overlap inventory shows that th
 
 - Phase 3 semantic assurance and agent evaluation plan (not included in this reader release)
 - Source coverage and extraction queue (not included in this reader release)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

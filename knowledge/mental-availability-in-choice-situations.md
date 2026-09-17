@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Mental availability in choice situations
@@ -59,5 +59,5 @@ Memory erodes and competes with other information and competitor advertising. A 
 - [Market-based assets](./market-based-assets.md)
 - [Marketing mix](./marketing-mix.md)
 
-[^memory-choice]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 49–52; PDF pages 87–90.
-[^memory-building]: [Primary PDF source](/release-information/source-provenance.md), Chapter 2, printed pages 50–52; PDF pages 88–90.
+[^memory-choice]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 49–52; PDF pages 87–90.
+[^memory-building]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 2, printed pages 50–52; PDF pages 88–90.

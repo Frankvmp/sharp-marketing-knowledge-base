@@ -24,6 +24,6 @@ Each metric type is separated from the rules used to interpret it. A metric labe
 
 - [Existing Chapter 3 overview: marketing measurement system](../marketing-measurement-system.md)
 - [Existing Chapter 3 framework: metric validity and causal interpretation](../metric-validity-and-causal-interpretation.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)
 
-[^source]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 84–137; PDF pages 122–175.
+[^source]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 84–137; PDF pages 122–175.

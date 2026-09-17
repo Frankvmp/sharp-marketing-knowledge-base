@@ -16,4 +16,4 @@ This chapter explains the external actors and wider forces that shape marketing 
 
 - [Marketing environment](../marketing-environment.md)
 - [Marketing planning process](../marketing-planning-process.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

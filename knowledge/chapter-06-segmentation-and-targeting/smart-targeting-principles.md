@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Smart targeting principles
 
@@ -44,5 +44,5 @@ Require a clear evidence test before narrowing an audience: what group is exclud
 - [Targeting returns and light buyers](./targeting-returns-and-light-buyers.md)
 - [Segmentation and broad market reach](../segmentation-and-broad-market-reach.md)
 
-[^smart]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 271–273; PDF pages 309–311.
-[^summary]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed page 275; PDF page 313.
+[^smart]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 271–273; PDF pages 309–311.
+[^summary]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed page 275; PDF page 313.

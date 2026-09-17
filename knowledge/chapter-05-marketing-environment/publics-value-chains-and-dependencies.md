@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Publics, value chains, and dependencies
 
@@ -42,8 +42,8 @@ Identify stakeholders that can affect access, legitimacy, finance, regulation, a
 - [Micro-environment relationships](./micro-environment-relationships.md)
 - [Ethical marketing and social responsibility](../ethical-marketing-and-social-responsibility.md)
 
-[^publics]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 212; PDF page 250.
-[^government]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 212–213; PDF pages 250–251.
-[^community]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 215; PDF page 253.
-[^value-chain]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 215–216; PDF pages 253–254.
-[^dependencies]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed pages 216–217; PDF pages 254–255.
+[^publics]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 212; PDF page 250.
+[^government]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 212–213; PDF pages 250–251.
+[^community]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 215; PDF page 253.
+[^value-chain]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 215–216; PDF pages 253–254.
+[^dependencies]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed pages 216–217; PDF pages 254–255.

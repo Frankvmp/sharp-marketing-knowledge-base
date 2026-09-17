@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Brand-user profiles and market partitions
 
@@ -44,5 +44,5 @@ Avoid positioning an ordinary brand as relevant only to a narrowly described aud
 - [Broad reach, product variety, and scale](./broad-reach-product-variety-and-scale.md)
 - [Brand-size effects and double jeopardy](../chapter-03-marketing-metrics/brand-size-effects-and-double-jeopardy.md)
 
-[^profiles]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 259–263; PDF pages 297–301.
-[^partitions]: [Primary PDF source](/release-information/source-provenance.md), Chapter 6, printed pages 263–265; PDF pages 301–303.
+[^profiles]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 259–263; PDF pages 297–301.
+[^partitions]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 6, printed pages 263–265; PDF pages 301–303.

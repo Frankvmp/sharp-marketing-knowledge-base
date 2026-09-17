@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Retail competition and store choice
 
@@ -34,4 +34,4 @@ Benchmark retailer performance using penetration, frequency, loyalty, location c
 - [Retailing and physical availability](./retailing-and-physical-availability.md)
 - [Brand-size effects and double jeopardy](../chapter-03-marketing-metrics/brand-size-effects-and-double-jeopardy.md)
 
-[^competition]: [Primary PDF source](/release-information/source-provenance.md), Chapter 8, printed pages 337–340; PDF pages 375–378.
+[^competition]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 8, printed pages 337–340; PDF pages 375–378.

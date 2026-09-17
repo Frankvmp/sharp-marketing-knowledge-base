@@ -11,8 +11,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Marketing environment
@@ -43,6 +43,6 @@ Environmental categories are analytical aids, not isolated realities. There is n
 - [Sustainable marketing](./sustainable-marketing.md)
 - [Market research process](./market-research-process.md)
 
-[^environment]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 208; PDF page 246.
-[^environment-conclusion]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 234; PDF page 272.
-[^natural-environment]: [Primary PDF source](/release-information/source-provenance.md), Chapter 5, printed page 229; PDF page 267.
+[^environment]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 208; PDF page 246.
+[^environment-conclusion]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 234; PDF page 272.
+[^natural-environment]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 5, printed page 229; PDF page 267.

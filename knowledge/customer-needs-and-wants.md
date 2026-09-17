@@ -13,8 +13,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Customer needs and wants
@@ -51,6 +51,6 @@ The chapter presents customer understanding as essential, but does not say that 
 - [Marketing executive role](./marketing-executive-role.md)
 - [Market-based assets](./market-based-assets.md)
 - Chapter 1 source map (not included in this reader release)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)
 
-[^sharp-2017-ch1-customer]: [Primary PDF source](/release-information/source-provenance.md), Chapter 1, printed pages 19–20; PDF pages 57–58.
+[^sharp-2017-ch1-customer]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 1, printed pages 19–20; PDF pages 57–58.

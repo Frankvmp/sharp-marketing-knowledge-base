@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Research design and B2B research
 
@@ -55,5 +55,5 @@ Select a research design according to the decision's time horizon and the type o
 - [Data analysis and statistical interpretation](./data-analysis-and-statistical-interpretation.md)
 - [Causal interpretation of marketing data](../chapter-03-marketing-metrics/causal-interpretation-of-marketing-data.md)
 
-[^b2b]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed page 187; PDF page 225.
-[^design]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 187–188; PDF pages 225–226.
+[^b2b]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed page 187; PDF page 225.
+[^design]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 187–188; PDF pages 225–226.

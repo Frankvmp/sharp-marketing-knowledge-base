@@ -7,8 +7,8 @@ tags: [ chapter-14, global-marketing, localisation, standardisation ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Global marketing adaptation
@@ -34,5 +34,5 @@ Standardisation can reduce costs but can fail when buyer needs, institutions, or
 - [Marketing environment](./marketing-environment.md)
 - [Personal selling and sales management](./personal-selling-and-sales-management.md)
 
-[^global-summary]: [Primary PDF source](/release-information/source-provenance.md), Chapter 14, printed page 629; PDF page 667.
-[^global-operations]: [Primary PDF source](/release-information/source-provenance.md), Chapter 14, printed page 628; PDF page 666.
+[^global-summary]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 14, printed page 629; PDF page 667.
+[^global-operations]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 14, printed page 628; PDF page 666.

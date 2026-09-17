@@ -7,8 +7,8 @@ tags: [ chapter-3, causality, experiments, evidence ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Causal interpretation of marketing data
@@ -39,5 +39,5 @@ Use correlations to generate hypotheses, not to justify a causal conclusion or e
 - [Metric validity](./metric-validity.md)
 - [Marketing measurement system](./marketing-measurement-system.md)
 
-[^causality]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 127–129; PDF pages 165–167.
-[^experiments]: [Primary PDF source](/release-information/source-provenance.md), Chapter 3, printed pages 130–137; PDF pages 168–175.
+[^causality]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 127–129; PDF pages 165–167.
+[^experiments]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 3, printed pages 130–137; PDF pages 168–175.

@@ -10,4 +10,4 @@ This chapter is represented as linked, source-grounded concepts.
 ## Related
 
 - [Marketing planning process](../marketing-planning-process.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

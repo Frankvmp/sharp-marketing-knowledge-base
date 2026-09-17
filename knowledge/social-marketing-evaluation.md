@@ -7,8 +7,8 @@ tags: [ chapter-16, social-marketing, evaluation, behaviour-change ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Social marketing evaluation
@@ -36,5 +36,5 @@ A post-initiative measure alone cannot establish success because there is no bas
 - [Market research process](./market-research-process.md)
 - [Metric validity and causal interpretation](./metric-validity-and-causal-interpretation.md)
 
-[^social-evaluation]: [Primary PDF source](/release-information/source-provenance.md), Chapter 16, printed page 725; PDF page 763.
-[^evaluation-method]: [Primary PDF source](/release-information/source-provenance.md), Chapter 16, printed pages 723–724; PDF pages 761–762.
+[^social-evaluation]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 16, printed page 725; PDF page 763.
+[^evaluation-method]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 16, printed pages 723–724; PDF pages 761–762.

@@ -12,10 +12,8 @@ generated:
 
 ## Bibliographic source
 
-- **Title:** *Marketing: Theory, Evidence, Practice*
-- **Edition:** Second edition
-- **Publisher:** Oxford University Press
-- **Source role:** Primary source for the extracted marketing records in this release.
+- **Identity:** Intentionally not disclosed in this release.
+- **Source role:** Primary reference source for the extracted marketing records in this release.
 
 ## Release boundary
 

@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Advertising research and effectiveness
 
@@ -25,5 +25,5 @@ Advertising research should assess whether an execution is noticed, correctly at
 
 Measure correct brand linkage, quality, reach, and later brand or sales effects in context. Prefer individual-level exposure-and-purchase evidence when possible, and do not treat weekly sales reports as a direct measure of advertising effectiveness.[^research][^measurement]
 
-[^research]: [Primary PDF source](/release-information/source-provenance.md), Chapter 11, printed pages 474–479; PDF pages 512–517.
-[^measurement]: [Primary PDF source](/release-information/source-provenance.md), Chapter 11, printed pages 480–483; PDF pages 518–521.
+[^research]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed pages 474–479; PDF pages 512–517.
+[^measurement]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed pages 480–483; PDF pages 518–521.

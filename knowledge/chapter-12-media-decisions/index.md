@@ -8,4 +8,4 @@
 ## Related
 
 - [Media decisions and campaign reach](../media-decisions-and-campaign-reach.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

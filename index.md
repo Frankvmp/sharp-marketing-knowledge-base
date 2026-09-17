@@ -1,28 +1,16 @@
 ---
-okf_version: "0.2"
+title: Marketing knowledge-base reader release
+description: Front door for this read-only marketing knowledge wiki.
 ---
 
-# Byron Sharp marketing knowledge-base reader release
+# Marketing knowledge-base reader release
 
-This is version `0.1.0-rc1`, a read-only, portable release candidate of source-grounded marketing knowledge extracted from *Marketing: Theory, Evidence, Practice*, second edition.
+This is a read-only, portable knowledge wiki of source-grounded marketing concepts. The bibliographic identity of the underlying source is intentionally not disclosed — see [source provenance](./knowledge/release-information/source-provenance.md).
 
-Start with [Release overview](./release-information/release-overview.md). Agents should then follow the [agent-use contract](./setup/agent-use-contract.md) and retrieve only from the [approved knowledge corpus](./knowledge/index.md).
+**Start with [AGENTS.md](./AGENTS.md)** for how to navigate this repository: no server, tool, or connection of any kind is required — just read files and follow the links.
 
-## Use
-
-- [Connection guide](./setup/connection-guide.md)
-- [Agent-use contract](./setup/agent-use-contract.md)
-- [Release manifest](./release-information/release-manifest.md)
-- [Source provenance](./knowledge/release-information/source-provenance.md)
-- [Agent-use testing protocol](./testing/agent-use-testing-protocol.md)
-- [Example prompts](./testing/example-prompts.md)
+The approved knowledge corpus lives entirely under [`knowledge/`](./knowledge/index.md). Nothing outside that folder is marketing evidence.
 
 ## Boundary
 
 This release intentionally excludes source files, extraction materials, construction notes, semantic-audit working papers, and prior evaluation responses. It is not an editing workspace.
-
-## Release-candidate status
-
-The source tag is `reader-release-v0.1.0-draft`, at source commit `8b8c8c4be24c849bb5c711b790e39b6dbfe14f72`. OpenKnowledge search is restricted to `knowledge/`, including source provenance. Setup, testing, release administration, and the portable skill bundle remain outside searchable marketing.
-
-Install `portable-skill/marketing-kb-grounded-reasoning.zip` in the agent host before testing. The release includes `release-manifest.json`, `SHA256SUMS`, and `release-verification.json` for machine-readable verification. No public URL or credentials are supplied; deployment and final approval remain pending. No claim is made that unrestricted `exec` is safe.

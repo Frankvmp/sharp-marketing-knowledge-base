@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Secondary data and contextual knowledge
 
@@ -54,5 +54,5 @@ Start every research project with an evidence inventory. Use prior knowledge to 
 - [Research brief and provider selection](./research-brief-and-provider-selection.md)
 - [Data analysis and statistical interpretation](./data-analysis-and-statistical-interpretation.md)
 
-[^secondary]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 159–160; PDF pages 197–198.
-[^context]: [Primary PDF source](/release-information/source-provenance.md), Chapter 4, printed pages 160–161; PDF pages 198–199.
+[^secondary]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 159–160; PDF pages 197–198.
+[^context]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 4, printed pages 160–161; PDF pages 198–199.

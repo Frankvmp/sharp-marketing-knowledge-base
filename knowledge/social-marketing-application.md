@@ -7,8 +7,8 @@ tags: [ chapter-16, social-marketing, behaviour-change, 7ps ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 
 # Social marketing application
@@ -40,6 +40,6 @@ Corporate social marketing must consider stakeholder interests because organisat
 - [Ethical marketing and social responsibility](./ethical-marketing-and-social-responsibility.md)
 - [Marketing mix](./marketing-mix.md)
 
-[^social-marketing]: [Primary PDF source](/release-information/source-provenance.md), Chapter 16, printed pages 700–701; PDF pages 738–739.
-[^application]: [Primary PDF source](/release-information/source-provenance.md), Chapter 16, printed page 704; PDF page 742.
-[^knowledge]: [Primary PDF source](/release-information/source-provenance.md), Chapter 16, printed page 713; PDF page 751.
+[^social-marketing]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 16, printed pages 700–701; PDF pages 738–739.
+[^application]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 16, printed page 704; PDF page 742.
+[^knowledge]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 16, printed page 713; PDF page 751.

@@ -8,4 +8,4 @@
 ## Related
 
 - [Advertising and memory availability](../advertising-and-memory-availability.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)

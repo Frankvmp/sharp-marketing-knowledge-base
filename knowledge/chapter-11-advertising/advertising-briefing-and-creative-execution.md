@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Advertising briefing and creative execution
 
@@ -25,4 +25,4 @@ An advertising brief should clarify the objective, audience, brand requirements,
 
 Use category buyers and potential buyers, including light buyers, as the default audience. Keep long-lived brand mandatories consistent, and assess creative ideas for brand linkage and relevant memory-building rather than message comprehension alone.[^brief]
 
-[^brief]: [Primary PDF source](/release-information/source-provenance.md), Chapter 11, printed pages 467–473; PDF pages 505–511.
+[^brief]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 11, printed pages 467–473; PDF pages 505–511.

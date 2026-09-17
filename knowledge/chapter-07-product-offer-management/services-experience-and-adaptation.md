@@ -12,8 +12,8 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    title: "Marketing: Theory, Evidence, Practice, second edition"
-    resource: /release-information/source-provenance.md
+    
+    resource: /knowledge/release-information/source-provenance
 ---
 # Services, experience, and adaptation
 
@@ -49,6 +49,6 @@ Define the experience customers seek and the delivery elements that make it cred
 - [Total offer and core need](./total-offer-and-core-need.md)
 - [Product mix, range, and B2B offers](./product-mix-range-and-b2b-offers.md)
 
-[^services]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 315–316; PDF pages 353–354.
-[^experience]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed pages 316–319; PDF pages 354–357.
-[^service-quality]: [Primary PDF source](/release-information/source-provenance.md), Chapter 7, printed page 319; PDF page 357.
+[^services]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 315–316; PDF pages 353–354.
+[^experience]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed pages 316–319; PDF pages 354–357.
+[^service-quality]: [Primary PDF source](/knowledge/release-information/source-provenance.md), Chapter 7, printed page 319; PDF page 357.

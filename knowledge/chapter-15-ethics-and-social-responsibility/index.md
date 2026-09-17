@@ -13,4 +13,4 @@ This chapter is represented as linked, source-grounded concepts.
 
 - [Ethical marketing and social responsibility](../ethical-marketing-and-social-responsibility.md)
 - [Sustainable marketing](../sustainable-marketing.md)
-- [Primary PDF source](/release-information/source-provenance.md)
+- [Primary PDF source](/knowledge/release-information/source-provenance.md)
