@@ -7,7 +7,6 @@ tags: [ chapter-3, metrics, measurement-system, market-based-assets ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 

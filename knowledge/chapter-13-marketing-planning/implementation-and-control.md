@@ -11,7 +11,6 @@ tags:
   - marketing-control
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 

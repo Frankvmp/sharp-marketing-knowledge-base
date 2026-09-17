@@ -7,7 +7,6 @@ tags: [ chapter-2, buyer-behaviour, evidence, market-research ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 

@@ -7,7 +7,6 @@ tags: [ chapter-12, media, reach, campaign-evaluation ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 

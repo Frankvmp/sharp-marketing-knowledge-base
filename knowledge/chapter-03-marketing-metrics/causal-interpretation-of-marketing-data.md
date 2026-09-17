@@ -7,7 +7,6 @@ tags: [ chapter-3, causality, experiments, evidence ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 

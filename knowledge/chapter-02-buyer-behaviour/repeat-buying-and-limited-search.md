@@ -7,7 +7,6 @@ tags: [ chapter-2, repeat-buying, limited-search, repertoire ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 

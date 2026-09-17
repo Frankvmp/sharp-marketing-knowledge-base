@@ -7,7 +7,6 @@ tags: [ chapter-13, marketing-plan, strategy, implementation ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 

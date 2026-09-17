@@ -12,7 +12,6 @@ generated:
   by: codex/gpt-5
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 # Brand-user profiles and market partitions

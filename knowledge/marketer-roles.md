@@ -12,7 +12,6 @@ tags:
   - evidence-based-marketing
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 

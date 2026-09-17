@@ -7,7 +7,6 @@ tags: [ chapter-10, selling, sales-management, b2b ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 

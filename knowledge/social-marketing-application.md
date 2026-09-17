@@ -7,7 +7,6 @@ tags: [ chapter-16, social-marketing, behaviour-change, 7ps ]
 generated: { by: codex/gpt-5 }
 sources:
   - id: original-pdf
-    
     resource: /knowledge/release-information/source-provenance
 ---
 
